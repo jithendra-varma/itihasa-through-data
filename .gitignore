@@ -1,0 +1,6 @@
+__pycache__/
+*.aux
+*.log
+*.out
+01-*/data/vedic_index_*.txt
+01-*/data/vedic_persons*.json

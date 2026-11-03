@@ -1,0 +1,108 @@
+person,vedic,vedic_role,bits,p,grade,why,robust
+Parikshit,Pariksit,king,32.3,1.0,Grade 3,"relatives named: Janamejaya, Bhimasena, Ugrasena, Shrutasena; role royal = royal",yes
+Ugrasena (brother of Janamejaya),Ugrasena,prince,18.5,1.0,Grade 3,"relatives named: Janamejaya, Bhimasena; role royal = royal; people named",yes
+Yadu,Yadu,,16.7,1.0,Grade 3,"relatives named: Turvasu, Druhyu; people named",yes
+Bahlika,Balhika Pratipiya,king,11.0,0.995,Grade 3,patronymic Pratipiya = parent; role royal = royal; people named,yes
+Dhritarashtra,Dhrtaristra Vaicitravirya,king,11.0,0.995,Grade 3,patronymic Vaicitravirya = parent; role royal = royal; people named,yes
+Pururavas,Pururavas,hero,10.0,0.991,Grade 3,relatives named: Urvashi; role royal = royal,yes
+Kalmashapada,Saudasa,,9.6,0.987,Grade 3,"relatives named: Sudasa, Vasishtha",yes
+Puru,Puru,,9.2,0.984,Grade 3,relatives named: Turvasu; people named,yes
+Mandhatri,Mandhatr,man,9.0,0.981,Grade 3,relatives named: Yuvanashva,no (Grade 2 / Grade 3)
+Janamejaya,Janamejaya,king,8.3,0.969,Grade 3,relatives named: Parikshit; role royal = royal,no (Grade 2 / Grade 3)
+Draupadi,Pancala,,8.2,0.968,Grade 3,relatives named: Arjuna; people named,no (Grade 2 / Grade 3)
+Janaka,Janaka,king,8.0,0.964,Grade 3,relatives named: Yajnavalkya; role royal = royal,no (Grade 2 / Grade 3)
+Shakuni,Saubala,,8.0,0.964,Grade 3,relatives named: Subala,no (Grade 2 / Grade 3)
+Shvetaketu,^vetaketu Aruneya,teacher,8.0,0.962,Grade 3,patronymic Aruneya = parent; role sage = sage,no (Grade 2 / Grade 3)
+Vyasa,Vyasa Parasarya,sage,8.0,0.962,Grade 3,patronymic Parasarya = parent; role sage = sage,no (Grade 2 / Grade 3)
+Shantanu,^amtanu,prince,7.7,0.955,Grade 3,relatives named: Devapi; role royal = royal,no (Grade 2 / Grade 3)
+Uddalaka,Aruni,common,6.5,0.898,Grade 2,relatives named: Shvetaketu,no (Grade 2 / Grade 3)
+Madri,Madra,,5.9,0.856,Grade 2,people named,no (Grade 2 / Grade 3)
+Shakuntala,Sakuntala,nymph,4.8,0.736,Grade 2,relatives named: Bharata,no (Grade 2 / Weak)
+Gandhari,Gandhara,,4.6,0.704,Grade 2,people named,no (Grade 2 / Weak)
+Bharata,Bharata,king,4.2,0.653,Grade 2,role royal = royal; people named,no (Grade 2 / Weak)
+Indrota,Indrota Atithigva,prince,3.7,0.557,Grade 2,relatives named: Janamejaya; role royal != sage,no (Grade 2 / Weak)
+Krishna,Krsna Devaklputra,teacher,3.6,0.548,Grade 2,patronymic Devaklputra = parent; role sage != royal,no (Grade 2 / Weak)
+Shikhandi,^ikhandin Yajnasena,priest,3.6,0.548,Grade 2,patronymic Yajnasena = parent; role sage != royal,no (Grade 2 / Weak)
+Karna,Radheya,teacher,3.0,0.443,Weak,relatives named: Parashurama; role sage != royal,no (Grade 2 / Weak)
+Arjuna,Phalguna,month,3.0,0.442,Weak,people named,no (Grade 2 / Weak)
+Agastya,Agastya,sage,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Ashvapati,A^vapati Kaikeya,prince,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Ayu,Ayu,prince,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Bharadvaja,Bharadvaja,seer,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Bhima,Bhimasena,prince,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Narada,Narada,seer,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Sahadeva,Sahadeva,prince,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Shrutasena,^rutasena,prince,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Vaishampayana,Vaisampayana,teacher,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Vasishtha,Vasistha,sage,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Vishvamitra,Vi^vamitra,seer,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Yajnavalkya,Yajnavalkya,sage,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Yudhishthira,Ajataiatru,king,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Balarama,Rama,man,0.0,0.091,Weak,,no (Not identified / Weak)
+Drupada,Yajnasena,,0.0,0.091,Weak,,no (Not identified / Weak)
+Jamadagni,Jamadagni,mythical,0.0,0.091,Weak,,no (Not identified / Weak)
+Kahoda,Kahoda Kausitaki,,0.0,0.091,Weak,,no (Not identified / Weak)
+Kripa,Krpa,man,0.0,0.091,Weak,,no (Not identified / Weak)
+Nahusha,Nahusa,,0.0,0.091,Weak,,no (Not identified / Weak)
+Parashurama,Rama,man,0.0,0.091,Weak,,no (Not identified / Weak)
+Rama,Rama,man,0.0,0.091,Weak,,no (Not identified / Weak)
+Samvarana,Samvarani,,0.0,0.091,Weak,,no (Not identified / Weak)
+Satyaki,Satyaki,,0.0,0.091,Weak,,no (Not identified / Weak)
+Shakti,Sakti,man,0.0,0.091,Weak,,no (Not identified / Weak)
+Abhimanyu,,,,0.0,No Vedic candidate,,yes
+Ashtavakra,,,,0.0,No Vedic candidate,,yes
+Ashvatthama,,,,0.0,No Vedic candidate,,yes
+Astika,,,,0.0,No Vedic candidate,,yes
+Bhagadatta,,,,0.0,No Vedic candidate,,yes
+Bhishma,,,,0.0,No Vedic candidate,,yes
+Bhurishravas,,,,0.0,No Vedic candidate,,yes
+Chitrangada,,,,0.0,No Vedic candidate,,yes
+Damayanti,,,,0.0,No Vedic candidate,,yes
+Devayani,,,,0.0,No Vedic candidate,,yes
+Dhaumya,,,,0.0,No Vedic candidate,,yes
+Dhrishtadyumna,,,,0.0,No Vedic candidate,,yes
+Drona,,,,0.0,No Vedic candidate,,yes
+Duhshasana,,,,0.0,No Vedic candidate,,yes
+Durvasa,,,,0.0,No Vedic candidate,,yes
+Duryodhana,,,,0.0,No Vedic candidate,,yes
+Dushyanta,,,,0.0,No Vedic candidate,,yes
+Ghatotkacha,,,,0.0,No Vedic candidate,,yes
+Hanuman,,,,0.0,No Vedic candidate,,yes
+Harishchandra,,,,0.0,No Vedic candidate,,yes
+Jarasandha,,,,0.0,No Vedic candidate,,yes
+Jayadratha,,,,0.0,No Vedic candidate,,yes
+Kamsa,,,,0.0,No Vedic candidate,,yes
+Kritavarma,,,,0.0,No Vedic candidate,,yes
+Kunti,,,,0.0,No Vedic candidate,,yes
+Kuru,,,,0.0,No Vedic candidate,,yes
+Markandeya,,,,0.0,No Vedic candidate,,yes
+Nakula,,,,0.0,No Vedic candidate,,yes
+Nala,,,,0.0,No Vedic candidate,,yes
+Pandu,,,,0.0,No Vedic candidate,,yes
+Parashara,,,,0.0,No Vedic candidate,,yes
+Ravana,,,,0.0,No Vedic candidate,,yes
+Sanjaya,,,,0.0,No Vedic candidate,,yes
+Satyavati,,,,0.0,No Vedic candidate,,yes
+Savitri,,,,0.0,No Vedic candidate,,yes
+Shalya,,,,0.0,No Vedic candidate,,yes
+Shaunaka,,,,0.0,No Vedic candidate,,yes
+Shishupala,,,,0.0,No Vedic candidate,,yes
+Sita,,,,0.0,No Vedic candidate,,yes
+Somadatta,,,,0.0,No Vedic candidate,,yes
+Subhadra,,,,0.0,No Vedic candidate,,yes
+Ugrashravas,,,,0.0,No Vedic candidate,,yes
+Urvashi,,,,0.0,No Vedic candidate,,yes
+Uttanka,,,,0.0,No Vedic candidate,,yes
+Vasudeva (father of Krishna),,,,0.0,No Vedic candidate,,yes
+Vidura,,,,0.0,No Vedic candidate,,yes
+Virata,,,,0.0,No Vedic candidate,,yes
+Yayati,,,,0.0,No Vedic candidate,,yes
+Yuyutsu,,,,0.0,No Vedic candidate,,yes
+Devaki,Devaka Manyamana,man,,0.0,Disqualified,patronymic Manyamana does not match epic parent(s) Devaka,yes
+Devapi,Devapi Arstisena,,,0.0,Disqualified,"patronymic Arstisena does not match epic parent(s) Pratipa, Sunanda",yes
+Pratipa,Pratipa Pratisatvana,king,,0.0,Disqualified,patronymic Pratisatvana does not match epic parent(s) Bhimasena,yes
+Shatanika,Satanika ^StrSjita,king,,0.0,Disqualified,"patronymic ^StrSjita does not match epic parent(s) Janamejaya, Vapushtama",yes
+Shatanika (son of Nakula),Satanika ^StrSjita,king,,0.0,Disqualified,"patronymic ^StrSjita does not match epic parent(s) Nakula, Draupadi",yes
+Somaka,Somaka Sahadcvya,king,,0.0,Disqualified,patronymic Sahadcvya does not match epic parent(s) Sahadeva,yes
+Uttara,Uttara Asadha Para^arya,teacher,,0.0,Disqualified,patronymic Asadha Para^arya does not match epic parent(s) Virata,yes
+Vichitravirya,Vaicitravirya Dhftarastra,king,,0.0,Disqualified,"patronymic Dhftarastra does not match epic parent(s) Shantanu, Satyavati",yes

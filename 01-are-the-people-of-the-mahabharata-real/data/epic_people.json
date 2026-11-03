@@ -1,0 +1,2370 @@
+[
+ {
+  "name": "Pratipa",
+  "alt": [],
+  "father": [
+   "Bhimasena"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Sunanda"
+  ],
+  "children": [
+   "Devapi",
+   "Shantanu",
+   "Bahlika"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.90"
+ },
+ {
+  "name": "Devapi",
+  "alt": [],
+  "father": [
+   "Pratipa"
+  ],
+  "mother": [
+   "Sunanda"
+  ],
+  "siblings": [
+   "Shantanu",
+   "Bahlika"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.90; 5.147"
+ },
+ {
+  "name": "Shantanu",
+  "alt": [],
+  "father": [
+   "Pratipa"
+  ],
+  "mother": [
+   "Sunanda"
+  ],
+  "siblings": [
+   "Devapi",
+   "Bahlika"
+  ],
+  "spouses": [
+   "Ganga",
+   "Satyavati"
+  ],
+  "children": [
+   "Bhishma",
+   "Chitrangada",
+   "Vichitravirya"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.91-95"
+ },
+ {
+  "name": "Bahlika",
+  "alt": [
+   "Balhika",
+   "Vahlika"
+  ],
+  "father": [
+   "Pratipa"
+  ],
+  "mother": [],
+  "siblings": [
+   "Devapi",
+   "Shantanu"
+  ],
+  "spouses": [],
+  "children": [
+   "Somadatta"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Bahlika"
+  ],
+  "role": "royal",
+  "ref": "1.90"
+ },
+ {
+  "name": "Somadatta",
+  "alt": [],
+  "father": [
+   "Bahlika"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Bhurishravas",
+   "Shala"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Bahlika"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Bhurishravas",
+  "alt": [],
+  "father": [
+   "Somadatta"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Bahlika"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Bhishma",
+  "alt": [
+   "Devavrata",
+   "Gangeya"
+  ],
+  "father": [
+   "Shantanu"
+  ],
+  "mother": [
+   "Ganga"
+  ],
+  "siblings": [
+   "Chitrangada",
+   "Vichitravirya"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Parashurama",
+   "Vasishtha"
+  ],
+  "people": [
+   "Kuru"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Satyavati",
+  "alt": [],
+  "father": [
+   "Vasu"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Shantanu",
+   "Parashara"
+  ],
+  "children": [
+   "Vyasa",
+   "Chitrangada",
+   "Vichitravirya"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Chitrangada",
+  "alt": [],
+  "father": [
+   "Shantanu"
+  ],
+  "mother": [
+   "Satyavati"
+  ],
+  "siblings": [
+   "Vichitravirya",
+   "Bhishma"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Vichitravirya",
+  "alt": [],
+  "father": [
+   "Shantanu"
+  ],
+  "mother": [
+   "Satyavati"
+  ],
+  "siblings": [
+   "Chitrangada",
+   "Bhishma"
+  ],
+  "spouses": [
+   "Ambika",
+   "Ambalika"
+  ],
+  "children": [
+   "Dhritarashtra",
+   "Pandu"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Vyasa",
+  "alt": [
+   "Krishna Dvaipayana",
+   "Dvaipayana",
+   "Badarayana"
+  ],
+  "father": [
+   "Parashara"
+  ],
+  "mother": [
+   "Satyavati"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Dhritarashtra",
+   "Pandu",
+   "Vidura",
+   "Shuka"
+  ],
+  "associates": [
+   "Vaishampayana",
+   "Jaimini",
+   "Paila",
+   "Sumantu"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Parashara",
+  "alt": [],
+  "father": [
+   "Shakti"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Vyasa"
+  ],
+  "associates": [
+   "Vasishtha"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Dhritarashtra",
+  "alt": [],
+  "father": [
+   "Vichitravirya"
+  ],
+  "mother": [
+   "Ambika"
+  ],
+  "siblings": [
+   "Pandu",
+   "Vidura"
+  ],
+  "spouses": [
+   "Gandhari"
+  ],
+  "children": [
+   "Duryodhana",
+   "Duhshasana",
+   "Yuyutsu",
+   "Duhshala",
+   "Vikarna"
+  ],
+  "associates": [
+   "Sanjaya",
+   "Vidura"
+  ],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Pandu",
+  "alt": [],
+  "father": [
+   "Vichitravirya"
+  ],
+  "mother": [
+   "Ambalika"
+  ],
+  "siblings": [
+   "Dhritarashtra",
+   "Vidura"
+  ],
+  "spouses": [
+   "Kunti",
+   "Madri"
+  ],
+  "children": [
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna",
+   "Nakula",
+   "Sahadeva"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Vidura",
+  "alt": [],
+  "father": [
+   "Vyasa"
+  ],
+  "mother": [],
+  "siblings": [
+   "Dhritarashtra",
+   "Pandu"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "other",
+  "ref": ""
+ },
+ {
+  "name": "Gandhari",
+  "alt": [],
+  "father": [
+   "Subala"
+  ],
+  "mother": [],
+  "siblings": [
+   "Shakuni"
+  ],
+  "spouses": [
+   "Dhritarashtra"
+  ],
+  "children": [
+   "Duryodhana",
+   "Duhshasana"
+  ],
+  "associates": [],
+  "people": [
+   "Gandhara"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Kunti",
+  "alt": [
+   "Pritha"
+  ],
+  "father": [
+   "Shura",
+   "Kuntibhoja"
+  ],
+  "mother": [],
+  "siblings": [
+   "Vasudeva"
+  ],
+  "spouses": [
+   "Pandu"
+  ],
+  "children": [
+   "Karna",
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna"
+  ],
+  "associates": [
+   "Durvasa"
+  ],
+  "people": [
+   "Yadu",
+   "Vrishni"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Madri",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [
+   "Shalya"
+  ],
+  "spouses": [
+   "Pandu"
+  ],
+  "children": [
+   "Nakula",
+   "Sahadeva"
+  ],
+  "associates": [],
+  "people": [
+   "Madra"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Yudhishthira",
+  "alt": [
+   "Dharmaraja",
+   "Ajatashatru"
+  ],
+  "father": [
+   "Pandu"
+  ],
+  "mother": [
+   "Kunti"
+  ],
+  "siblings": [
+   "Bhima",
+   "Arjuna",
+   "Nakula",
+   "Sahadeva",
+   "Karna"
+  ],
+  "spouses": [
+   "Draupadi",
+   "Devika"
+  ],
+  "children": [
+   "Prativindhya",
+   "Yaudheya"
+  ],
+  "associates": [
+   "Drona",
+   "Kripa",
+   "Dhaumya",
+   "Krishna"
+  ],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Bhima",
+  "alt": [
+   "Bhimasena",
+   "Vrikodara"
+  ],
+  "father": [
+   "Pandu"
+  ],
+  "mother": [
+   "Kunti"
+  ],
+  "siblings": [
+   "Yudhishthira",
+   "Arjuna",
+   "Nakula",
+   "Sahadeva"
+  ],
+  "spouses": [
+   "Draupadi",
+   "Hidimbi"
+  ],
+  "children": [
+   "Ghatotkacha",
+   "Sutasoma",
+   "Sarvaga"
+  ],
+  "associates": [
+   "Drona",
+   "Balarama"
+  ],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Arjuna",
+  "alt": [
+   "Dhananjaya",
+   "Partha",
+   "Phalguna",
+   "Kiriti",
+   "Savyasachi"
+  ],
+  "father": [
+   "Pandu"
+  ],
+  "mother": [
+   "Kunti"
+  ],
+  "siblings": [
+   "Yudhishthira",
+   "Bhima",
+   "Nakula",
+   "Sahadeva"
+  ],
+  "spouses": [
+   "Draupadi",
+   "Subhadra",
+   "Ulupi",
+   "Chitrangada"
+  ],
+  "children": [
+   "Abhimanyu",
+   "Shrutakirti",
+   "Iravan",
+   "Babhruvahana"
+  ],
+  "associates": [
+   "Drona",
+   "Krishna"
+  ],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Nakula",
+  "alt": [],
+  "father": [
+   "Pandu"
+  ],
+  "mother": [
+   "Madri"
+  ],
+  "siblings": [
+   "Sahadeva",
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna"
+  ],
+  "spouses": [
+   "Draupadi"
+  ],
+  "children": [
+   "Shatanika",
+   "Niramitra"
+  ],
+  "associates": [
+   "Drona"
+  ],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Sahadeva",
+  "alt": [],
+  "father": [
+   "Pandu"
+  ],
+  "mother": [
+   "Madri"
+  ],
+  "siblings": [
+   "Nakula",
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna"
+  ],
+  "spouses": [
+   "Draupadi"
+  ],
+  "children": [
+   "Shrutasena",
+   "Shrutakarman",
+   "Suhotra"
+  ],
+  "associates": [
+   "Drona"
+  ],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Draupadi",
+  "alt": [
+   "Krishnaa",
+   "Panchali",
+   "Yajnaseni"
+  ],
+  "father": [
+   "Drupada"
+  ],
+  "mother": [],
+  "siblings": [
+   "Dhrishtadyumna",
+   "Shikhandi"
+  ],
+  "spouses": [
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna",
+   "Nakula",
+   "Sahadeva"
+  ],
+  "children": [
+   "Prativindhya",
+   "Sutasoma",
+   "Shrutakirti",
+   "Shatanika",
+   "Shrutasena"
+  ],
+  "associates": [],
+  "people": [
+   "Pancala"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Drupada",
+  "alt": [
+   "Yajnasena"
+  ],
+  "father": [
+   "Prishata"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Draupadi",
+   "Dhrishtadyumna",
+   "Shikhandi"
+  ],
+  "associates": [
+   "Drona"
+  ],
+  "people": [
+   "Pancala",
+   "Somaka"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Dhrishtadyumna",
+  "alt": [],
+  "father": [
+   "Drupada"
+  ],
+  "mother": [],
+  "siblings": [
+   "Draupadi",
+   "Shikhandi"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Pancala"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Shikhandi",
+  "alt": [
+   "Shikhandin"
+  ],
+  "father": [
+   "Drupada"
+  ],
+  "mother": [],
+  "siblings": [
+   "Draupadi",
+   "Dhrishtadyumna"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Pancala"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Abhimanyu",
+  "alt": [],
+  "father": [
+   "Arjuna"
+  ],
+  "mother": [
+   "Subhadra"
+  ],
+  "siblings": [],
+  "spouses": [
+   "Uttara"
+  ],
+  "children": [
+   "Parikshit"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Parikshit",
+  "alt": [],
+  "father": [
+   "Abhimanyu"
+  ],
+  "mother": [
+   "Uttara"
+  ],
+  "siblings": [],
+  "spouses": [
+   "Madravati"
+  ],
+  "children": [
+   "Janamejaya",
+   "Bhimasena",
+   "Ugrasena",
+   "Shrutasena"
+  ],
+  "associates": [
+   "Kripa"
+  ],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Janamejaya",
+  "alt": [],
+  "father": [
+   "Parikshit"
+  ],
+  "mother": [
+   "Madravati"
+  ],
+  "siblings": [
+   "Bhimasena",
+   "Ugrasena",
+   "Shrutasena"
+  ],
+  "spouses": [
+   "Vapushtama"
+  ],
+  "children": [
+   "Shatanika",
+   "Shankukarna"
+  ],
+  "associates": [
+   "Vaishampayana",
+   "Indrota",
+   "Astika",
+   "Uttanka",
+   "Somashravas"
+  ],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Shatanika",
+  "alt": [],
+  "father": [
+   "Janamejaya"
+  ],
+  "mother": [
+   "Vapushtama"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Ashvamedhadatta"
+  ],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.90; son of Janamejaya"
+ },
+ {
+  "name": "Shatanika (son of Nakula)",
+  "alt": [],
+  "father": [
+   "Nakula"
+  ],
+  "mother": [
+   "Draupadi"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Pandava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Shrutasena",
+  "alt": [],
+  "father": [
+   "Parikshit"
+  ],
+  "mother": [],
+  "siblings": [
+   "Janamejaya",
+   "Bhimasena",
+   "Ugrasena"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.3.1"
+ },
+ {
+  "name": "Ugrasena (brother of Janamejaya)",
+  "alt": [],
+  "father": [
+   "Parikshit"
+  ],
+  "mother": [],
+  "siblings": [
+   "Janamejaya",
+   "Bhimasena",
+   "Shrutasena"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "royal",
+  "ref": "1.3.1"
+ },
+ {
+  "name": "Duryodhana",
+  "alt": [
+   "Suyodhana"
+  ],
+  "father": [
+   "Dhritarashtra"
+  ],
+  "mother": [
+   "Gandhari"
+  ],
+  "siblings": [
+   "Duhshasana",
+   "Duhshala",
+   "Vikarna",
+   "Yuyutsu"
+  ],
+  "spouses": [
+   "Bhanumati"
+  ],
+  "children": [
+   "Lakshmana"
+  ],
+  "associates": [
+   "Drona",
+   "Balarama",
+   "Karna",
+   "Shakuni"
+  ],
+  "people": [
+   "Kuru",
+   "Kaurava"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Duhshasana",
+  "alt": [],
+  "father": [
+   "Dhritarashtra"
+  ],
+  "mother": [
+   "Gandhari"
+  ],
+  "siblings": [
+   "Duryodhana",
+   "Vikarna"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Kaurava"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Yuyutsu",
+  "alt": [],
+  "father": [
+   "Dhritarashtra"
+  ],
+  "mother": [],
+  "siblings": [
+   "Duryodhana"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Karna",
+  "alt": [
+   "Vasusena",
+   "Radheya",
+   "Vaikartana"
+  ],
+  "father": [
+   "Surya",
+   "Adhiratha"
+  ],
+  "mother": [
+   "Kunti",
+   "Radha"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Vrishasena"
+  ],
+  "associates": [
+   "Parashurama",
+   "Drona",
+   "Duryodhana"
+  ],
+  "people": [
+   "Anga"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Shakuni",
+  "alt": [
+   "Saubala"
+  ],
+  "father": [
+   "Subala"
+  ],
+  "mother": [],
+  "siblings": [
+   "Gandhari"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Gandhara"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Drona",
+  "alt": [],
+  "father": [
+   "Bharadvaja"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Kripi"
+  ],
+  "children": [
+   "Ashvatthama"
+  ],
+  "associates": [
+   "Parashurama",
+   "Agnivesha"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Kripa",
+  "alt": [
+   "Gautama",
+   "Sharadvata"
+  ],
+  "father": [
+   "Sharadvat"
+  ],
+  "mother": [],
+  "siblings": [
+   "Kripi"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Ashvatthama",
+  "alt": [],
+  "father": [
+   "Drona"
+  ],
+  "mother": [
+   "Kripi"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Krishna",
+  "alt": [
+   "Vasudeva",
+   "Keshava",
+   "Janardana",
+   "Govinda",
+   "Devakiputra"
+  ],
+  "father": [
+   "Vasudeva"
+  ],
+  "mother": [
+   "Devaki"
+  ],
+  "siblings": [
+   "Balarama",
+   "Subhadra"
+  ],
+  "spouses": [
+   "Rukmini",
+   "Satyabhama",
+   "Jambavati"
+  ],
+  "children": [
+   "Pradyumna",
+   "Samba"
+  ],
+  "associates": [
+   "Sandipani",
+   "Ghora",
+   "Arjuna"
+  ],
+  "people": [
+   "Yadu",
+   "Vrishni",
+   "Satvata",
+   "Dasharha"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Balarama",
+  "alt": [
+   "Baladeva",
+   "Sankarshana",
+   "Rama"
+  ],
+  "father": [
+   "Vasudeva"
+  ],
+  "mother": [
+   "Rohini"
+  ],
+  "siblings": [
+   "Krishna",
+   "Subhadra"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Yadu",
+   "Vrishni"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Vasudeva (father of Krishna)",
+  "alt": [
+   "Anakadundubhi"
+  ],
+  "father": [
+   "Shura"
+  ],
+  "mother": [],
+  "siblings": [
+   "Kunti"
+  ],
+  "spouses": [
+   "Devaki",
+   "Rohini"
+  ],
+  "children": [
+   "Krishna",
+   "Balarama",
+   "Subhadra"
+  ],
+  "associates": [],
+  "people": [
+   "Yadu",
+   "Vrishni"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Devaki",
+  "alt": [],
+  "father": [
+   "Devaka"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Vasudeva"
+  ],
+  "children": [
+   "Krishna"
+  ],
+  "associates": [],
+  "people": [
+   "Yadu"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Subhadra",
+  "alt": [],
+  "father": [
+   "Vasudeva"
+  ],
+  "mother": [],
+  "siblings": [
+   "Krishna",
+   "Balarama"
+  ],
+  "spouses": [
+   "Arjuna"
+  ],
+  "children": [
+   "Abhimanyu"
+  ],
+  "associates": [],
+  "people": [
+   "Yadu"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Kamsa",
+  "alt": [],
+  "father": [
+   "Ugrasena"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Yadu",
+   "Bhoja"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Satyaki",
+  "alt": [
+   "Yuyudhana"
+  ],
+  "father": [
+   "Satyaka"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Arjuna"
+  ],
+  "people": [
+   "Vrishni",
+   "Satvata"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Kritavarma",
+  "alt": [],
+  "father": [
+   "Hridika"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Yadu",
+   "Bhoja"
+  ],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Jarasandha",
+  "alt": [],
+  "father": [
+   "Brihadratha"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Sahadeva"
+  ],
+  "associates": [],
+  "people": [
+   "Magadha"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Shishupala",
+  "alt": [],
+  "father": [
+   "Damaghosha"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Cedi"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Virata",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Uttara",
+   "Shveta",
+   "Shankha"
+  ],
+  "associates": [],
+  "people": [
+   "Matsya"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Uttara",
+  "alt": [],
+  "father": [
+   "Virata"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Abhimanyu"
+  ],
+  "children": [
+   "Parikshit"
+  ],
+  "associates": [],
+  "people": [
+   "Matsya"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Shalya",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [
+   "Madri"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Madra"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Bhagadatta",
+  "alt": [],
+  "father": [
+   "Naraka"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Pragjyotisha"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Jayadratha",
+  "alt": [],
+  "father": [
+   "Vriddhakshatra"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Duhshala"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Sindhu"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Ghatotkacha",
+  "alt": [],
+  "father": [
+   "Bhima"
+  ],
+  "mother": [
+   "Hidimbi"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "warrior",
+  "ref": ""
+ },
+ {
+  "name": "Sanjaya",
+  "alt": [],
+  "father": [
+   "Gavalgana"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Dhritarashtra",
+   "Vyasa"
+  ],
+  "people": [],
+  "role": "other",
+  "ref": ""
+ },
+ {
+  "name": "Dhaumya",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Yudhishthira",
+   "Uddalaka",
+   "Upamanyu"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Vaishampayana",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Vyasa",
+   "Janamejaya"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Ugrashravas",
+  "alt": [
+   "Sauti"
+  ],
+  "father": [
+   "Lomaharshana"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Shaunaka"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Shaunaka",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Ugrashravas"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Indrota",
+  "alt": [
+   "Indrota Shaunaka"
+  ],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Janamejaya"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": "12.146-148"
+ },
+ {
+  "name": "Astika",
+  "alt": [],
+  "father": [
+   "Jaratkaru"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Janamejaya",
+   "Vasuki"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Uttanka",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Veda",
+   "Gautama",
+   "Janamejaya",
+   "Paushya"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Bharata",
+  "alt": [
+   "Sarvadamana"
+  ],
+  "father": [
+   "Dushyanta"
+  ],
+  "mother": [
+   "Shakuntala"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Puru",
+   "Bharata"
+  ],
+  "role": "royal",
+  "ref": "1.62-69"
+ },
+ {
+  "name": "Dushyanta",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Shakuntala"
+  ],
+  "children": [
+   "Bharata"
+  ],
+  "associates": [],
+  "people": [
+   "Puru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Shakuntala",
+  "alt": [],
+  "father": [
+   "Vishvamitra"
+  ],
+  "mother": [
+   "Menaka"
+  ],
+  "siblings": [],
+  "spouses": [
+   "Dushyanta"
+  ],
+  "children": [
+   "Bharata"
+  ],
+  "associates": [
+   "Kanva"
+  ],
+  "people": [],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Kuru",
+  "alt": [],
+  "father": [
+   "Samvarana"
+  ],
+  "mother": [
+   "Tapati"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Kuru",
+   "Puru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Samvarana",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Tapati"
+  ],
+  "children": [
+   "Kuru"
+  ],
+  "associates": [
+   "Vasishtha"
+  ],
+  "people": [
+   "Puru",
+   "Bharata"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Puru",
+  "alt": [],
+  "father": [
+   "Yayati"
+  ],
+  "mother": [
+   "Sharmishtha"
+  ],
+  "siblings": [
+   "Yadu",
+   "Turvasu",
+   "Druhyu",
+   "Anu"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Puru"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Yayati",
+  "alt": [],
+  "father": [
+   "Nahusha"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Devayani",
+   "Sharmishtha"
+  ],
+  "children": [
+   "Yadu",
+   "Turvasu",
+   "Druhyu",
+   "Anu",
+   "Puru"
+  ],
+  "associates": [
+   "Shukra"
+  ],
+  "people": [],
+  "role": "royal",
+  "ref": "1.70-88"
+ },
+ {
+  "name": "Nahusha",
+  "alt": [],
+  "father": [
+   "Ayu"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Yayati"
+  ],
+  "associates": [],
+  "people": [
+   "Aila"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Pururavas",
+  "alt": [],
+  "father": [
+   "Budha"
+  ],
+  "mother": [
+   "Ila"
+  ],
+  "siblings": [],
+  "spouses": [
+   "Urvashi"
+  ],
+  "children": [
+   "Ayu"
+  ],
+  "associates": [],
+  "people": [
+   "Aila"
+  ],
+  "role": "royal",
+  "ref": "1.70"
+ },
+ {
+  "name": "Urvashi",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Pururavas"
+  ],
+  "children": [
+   "Ayu"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "other",
+  "ref": ""
+ },
+ {
+  "name": "Ayu",
+  "alt": [],
+  "father": [
+   "Pururavas"
+  ],
+  "mother": [
+   "Urvashi"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Nahusha"
+  ],
+  "associates": [],
+  "people": [
+   "Aila"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Yadu",
+  "alt": [],
+  "father": [
+   "Yayati"
+  ],
+  "mother": [
+   "Devayani"
+  ],
+  "siblings": [
+   "Turvasu",
+   "Puru",
+   "Druhyu",
+   "Anu"
+  ],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Yadu"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Devayani",
+  "alt": [],
+  "father": [
+   "Shukra"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Yayati"
+  ],
+  "children": [
+   "Yadu",
+   "Turvasu"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Mandhatri",
+  "alt": [
+   "Mandhata"
+  ],
+  "father": [
+   "Yuvanashva"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "royal",
+  "ref": "3.126"
+ },
+ {
+  "name": "Nala",
+  "alt": [],
+  "father": [
+   "Virasena"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Damayanti"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Nishadha"
+  ],
+  "role": "royal",
+  "ref": "3.50-78"
+ },
+ {
+  "name": "Damayanti",
+  "alt": [],
+  "father": [
+   "Bhima"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Nala"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Vidarbha"
+  ],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Somaka",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Jantu"
+  ],
+  "associates": [
+   "Sahadeva"
+  ],
+  "people": [
+   "Pancala",
+   "Somaka"
+  ],
+  "role": "royal",
+  "ref": "3.125.23 (listed with Sahadeva); 3.127-128. CE gives no father"
+ },
+ {
+  "name": "Uddalaka",
+  "alt": [
+   "Aruni",
+   "Aruni Panchalya"
+  ],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Shvetaketu"
+  ],
+  "associates": [
+   "Dhaumya",
+   "Kahoda"
+  ],
+  "people": [
+   "Pancala"
+  ],
+  "role": "sage",
+  "ref": "1.3; 3.132"
+ },
+ {
+  "name": "Shvetaketu",
+  "alt": [],
+  "father": [
+   "Uddalaka"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Ashtavakra"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": "1.113; 3.132"
+ },
+ {
+  "name": "Ashtavakra",
+  "alt": [],
+  "father": [
+   "Kahoda"
+  ],
+  "mother": [
+   "Sujata"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Uddalaka",
+   "Shvetaketu",
+   "Janaka"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": "3.132-134"
+ },
+ {
+  "name": "Kahoda",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Sujata"
+  ],
+  "children": [
+   "Ashtavakra"
+  ],
+  "associates": [
+   "Uddalaka"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Janaka",
+  "alt": [
+   "Janaka Vaideha",
+   "Janaka Daivarati"
+  ],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Yajnavalkya",
+   "Ashtavakra"
+  ],
+  "people": [
+   "Videha",
+   "Mithila"
+  ],
+  "role": "royal",
+  "ref": "3.133; 12.298-306"
+ },
+ {
+  "name": "Yajnavalkya",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Janaka",
+   "Vaishampayana"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": "12.298-306"
+ },
+ {
+  "name": "Harishchandra",
+  "alt": [],
+  "father": [
+   "Trishanku"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "royal",
+  "ref": "2.11"
+ },
+ {
+  "name": "Vasishtha",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Shakti"
+  ],
+  "associates": [
+   "Vishvamitra",
+   "Samvarana",
+   "Kalmashapada"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Vishvamitra",
+  "alt": [
+   "Kaushika"
+  ],
+  "father": [
+   "Gadhi"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Shakuntala"
+  ],
+  "associates": [
+   "Vasishtha"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Shakti",
+  "alt": [],
+  "father": [
+   "Vasishtha"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Parashara"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Parashurama",
+  "alt": [
+   "Rama Jamadagnya",
+   "Bhargava"
+  ],
+  "father": [
+   "Jamadagni"
+  ],
+  "mother": [
+   "Renuka"
+  ],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Bhishma",
+   "Drona",
+   "Karna"
+  ],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Jamadagni",
+  "alt": [],
+  "father": [
+   "Richika"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Renuka"
+  ],
+  "children": [
+   "Parashurama"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Bharadvaja",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Drona"
+  ],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Agastya",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Lopamudra"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Durvasa",
+  "alt": [],
+  "father": [
+   "Atri"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Narada",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Markandeya",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "sage",
+  "ref": ""
+ },
+ {
+  "name": "Kalmashapada",
+  "alt": [
+   "Saudasa",
+   "Mitrasaha"
+  ],
+  "father": [
+   "Sudasa"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [
+   "Vasishtha"
+  ],
+  "people": [
+   "Ikshvaku"
+  ],
+  "role": "royal",
+  "ref": ""
+ },
+ {
+  "name": "Ashvapati",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [
+   "Savitri"
+  ],
+  "associates": [],
+  "people": [
+   "Madra"
+  ],
+  "role": "royal",
+  "ref": "3.277"
+ },
+ {
+  "name": "Savitri",
+  "alt": [],
+  "father": [
+   "Ashvapati"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Satyavan"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Rama",
+  "alt": [
+   "Rama Dasharathi"
+  ],
+  "father": [
+   "Dasharatha"
+  ],
+  "mother": [
+   "Kausalya"
+  ],
+  "siblings": [],
+  "spouses": [
+   "Sita"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [
+   "Ikshvaku",
+   "Kosala"
+  ],
+  "role": "royal",
+  "ref": "3.257-275"
+ },
+ {
+  "name": "Sita",
+  "alt": [],
+  "father": [
+   "Janaka"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [
+   "Rama"
+  ],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "woman",
+  "ref": ""
+ },
+ {
+  "name": "Ravana",
+  "alt": [],
+  "father": [
+   "Vishravas"
+  ],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "other",
+  "ref": ""
+ },
+ {
+  "name": "Hanuman",
+  "alt": [],
+  "father": [],
+  "mother": [],
+  "siblings": [],
+  "spouses": [],
+  "children": [],
+  "associates": [],
+  "people": [],
+  "role": "other",
+  "ref": ""
+ }
+]

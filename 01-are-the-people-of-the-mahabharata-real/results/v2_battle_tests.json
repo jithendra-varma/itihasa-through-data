@@ -1,0 +1,92 @@
+{
+ "n_epic": 107,
+ "n_vedic": 2051,
+ "observed_grade2plus": 26,
+ "T1": {
+  "null_mean": 8.933,
+  "null_p99": 12,
+  "null_max": 14,
+  "p_value": 0.000999000999000999,
+  "passed": true
+ },
+ "T2": {
+  "pairs": 219343,
+  "false_grade2plus": 1327,
+  "rate": 0.006049885339399935,
+  "passed": true
+ },
+ "T3": {
+  "results": {
+   "Bharata": "Grade 3",
+   "Yayati": "Grade 3",
+   "Pururavas": "Grade 3",
+   "Mandhatri": "Grade 3",
+   "Nala": "No Vedic candidate",
+   "Uddalaka": "Grade 3",
+   "Shvetaketu": "Grade 2",
+   "Yajnavalkya": "Weak",
+   "Janaka": "Grade 2"
+  },
+  "found": 7,
+  "needed": 6,
+  "passed": true
+ },
+ "T4": {
+  "variants": [
+   "prior 1:3",
+   "prior 1:30",
+   "pat.m x0.75",
+   "pat.m x1.25",
+   "pat.u x0.75",
+   "pat.u x1.25",
+   "rel.m x0.75",
+   "rel.m x1.25",
+   "rel.u x0.75",
+   "rel.u x1.25",
+   "role.m x0.75",
+   "role.m x1.25",
+   "role.u x0.75",
+   "role.u x1.25",
+   "people.m x0.75",
+   "people.m x1.25",
+   "people.u x0.75",
+   "people.u x1.25"
+  ],
+  "changed": [
+   "Shantanu",
+   "Vyasa",
+   "Gandhari",
+   "Bhima",
+   "Arjuna",
+   "Sahadeva",
+   "Draupadi",
+   "Shikhandi",
+   "Parikshit",
+   "Shrutasena",
+   "Shakuni",
+   "Kripa",
+   "Balarama",
+   "Vaishampayana",
+   "Shaunaka",
+   "Indrota",
+   "Kuru",
+   "Samvarana",
+   "Puru",
+   "Pururavas",
+   "Yadu",
+   "Mandhatri",
+   "Shvetaketu",
+   "Kahoda",
+   "Yajnavalkya",
+   "Vishvamitra",
+   "Parashurama",
+   "Jamadagni",
+   "Bharadvaja",
+   "Agastya",
+   "Narada",
+   "Kalmashapada",
+   "Ashvapati",
+   "Rama"
+  ]
+ }
+}

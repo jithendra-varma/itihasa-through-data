@@ -1,0 +1,62 @@
+id,epic_person,chosen_vedic_record,verdict,marks_matched,reason
+1,Uddalaka,Uddālaka Āruṇi,Grade 3,child Shvetaketu; people Pancala; role sage/teacher; alt Aruni,"Entry says 'his son Svetaketu is found disputing among the Pañcālas' and he was 'a Brāhmaṇa of the Kurupañcālas', a teacher known by 'his patronymic name Āruṇi' - three independent marks, no conflict."
+2,Shaunaka,Śaunaka,Weak,role sage/teacher,'Śaunaka ... is a common patronymic' applied to several teachers and 'a great authority' in the Sūtras; only the sage role fits and no associate (Ugrashravas) is named.
+3,Somaka,Somaka Sāhadevya,Grade 2,father Sahadeva; role king,"'Somaka Sāha-devya (descendant of Sahadeva) ... a king' matches father and role, but he is king 'of the Sṛnjayas' rather than explicitly Pañcāla, so people is only approximate."
+4,Karna,Rādheya,Disqualified,,'the metronymic of a teacher' - a teacher conflicts with the warrior Karna.
+5,Rama,Rāma (1-4),Disqualified,,"Named Rāmas bear other patronymics ('Aupatasvini', 'Krātu-jāteya', 'Mārga-veya', of 'the priestly family of the Śyāparṇas') and the Rigvedic Rāma is just 'the name of a man'; none is son of Dasharatha."
+6,Devaki,Devaka Mānyamāna,Not identified,,"Record is a male 'opponent of the Tṛtsus' named Devaka (possibly Śambara), not Devaki herself."
+7,Uttara,Uttara Kuru / Uttara Madra,Not identified,,"Records are northern peoples ('the country of the Uttara Kurus', 'the name of a tribe'), not the woman Uttara - only a word coincidence."
+8,Bharata,Dauḥṣanti (Bharata),Grade 2,father Dushyanta; mother Shakuntala (via the Śakuntalā entry),'Dauḥ-ṣanti (descendant of Duḥṣanta) is the patronymic of Bharata' and the Śakuntalā entry (item 10) says she 'bore Bharata' per the same Śatapatha - two relational marks.
+9,Janamejaya,Pārikṣita (Janamejaya),Grade 3,father Parikshit; brothers Ugrasena/Bhimasena/Shrutasena; royal horse sacrifice; associate Indrota (item 57),"'Pārikṣita ... is the patronymic of Janamejaya' and 'Apparently they were the brothers of Janamejaya, named Ugrasena, Bhīmasena, and Śrutasena', performers of 'the horse sacrifice'; the priest-Janamejaya of the snake sacrifice is a different person."
+10,Shakuntala,Śakuntalā,"Same figure, legendary",child Bharata,'Śakuntalā is the name of an Apsaras who bore Bharata' - same mother of Bharata but treated as a nymph.
+11,Shatanika,Sātrājita (Śatānīka),Disqualified,,'Sātrājita (descendant of Satrājit) is the patronymic of Śatānīka' - father Satrājit conflicts with Janamejaya.
+12,Shvetaketu,Śvetaketu Āruṇeya / Auddālaki,Grade 3,father Uddalaka; role sage; Janaka court disputant (setting of Ashtavakra story),"'Auddālaki (son of Uddālaka)', a Brahmin who 'figured among the Brahmin disputants at [Janaka's] court' - father, role and the Janaka-court episode match."
+13,Vyasa,Vyāsa Pārāśarya,"Same figure, legendary",father Parashara; role sage,'Vyāsa Pārāśarya (descendant of Parāśara) is the name of a mythical sage' - patronymic matches but the entry treats him as mythical.
+14,Gandhari,Gāndhāra (Nagnajit),Not identified,,"Record is a male 'king of Gandhāra named Nagnajit', not Gandhari."
+15,Shatanika (son of Nakula),Sātrājita (Śatānīka),Disqualified,,"'patronymic of Śatānīka' is Sātrājita, 'descendant of Satrājit', conflicting with father Nakula."
+16,Drupada,Yajñasena Caitra,Disqualified,,'a teacher with the patronymic Caitra' - father Citra and teacher role conflict with king Drupada son of Prishata.
+17,Shakuni,Saubala,Disqualified,father Subala,"'Sau-bala, descendant of Subala, is the name of a pupil of Sarpi Vātsi' - the patronymic fits but a pupil in a priestly teaching line conflicts with the Gandhara prince."
+18,Jamadagni,Jamadagni,"Same figure, legendary",role sage; friend of Vishvamitra,'one of the somewhat mythical sages of the Rigveda' - clearly the famous seer but treated as mythical.
+19,Devapi,Devāpi Ārṣṭiṣeṇa,Disqualified,"brother Shantanu, Kuru prince, drought episode (Nirukta) - but father conflicts","Brother Śantanu and the drought tale fit, but the patronymic 'Ārṣṭiṣeṇa (descendant of Ṛṣṭiṣeṇa)' conflicts with father Pratipa and 'it is impossible to extract history from them'."
+20,Arjuna,Arjunī / Dhānaṃjayya,Not identified,,'Arjunī is ... the name of the Nakṣatra' and Dhānaṃjayya is 'the patronymic of Aṃśu' - wrong records.
+21,Pururavas,Purūravas,"Same figure, legendary",spouse Urvashi; mother Ila (Aiḷa),"Dialogue with 'a nymph, Urvaśī' and epithet 'Aiḷa' match, but 'It is impossible to say whether he is a mythical figure pure and simple'."
+22,Vichitravirya,,Not identified,,No Vedic candidate record.
+23,Madri,,Not identified,,No Vedic candidate record.
+24,Narada,Nārada,"Same figure, legendary",role sage,"'Nārada is the name of a mythical seer' - same figure, mythical."
+25,Vaishampayana,Vaiśaṃpāyana,Weak,role teacher,"'the name of a teacher, famous later' known only to the Taittirīya Āraṇyaka and Gṛhya Sūtras - role only, no Vyasa or Janamejaya link."
+26,Parashara,Parāśara,Grade 2,grandfather/associate Vasishtha; role sage,"'Geldner thinks that he is mentioned ... along with Śatayātu, perhaps his uncle, and his grandfather Vasiṣṭha' - Vasishtha in the same relationship plus sage role, but only on Geldner's interpretation."
+27,Kripa,Gautama,Not identified,,"'Gautama ... is a common patronymic' applied to Aruṇa, Uddālaka, Kuśri etc.; no individual matching Kripa son of Sharadvat."
+28,Ashvapati,Aśvapati,Disqualified,role king,"'a prince of the Kekayas' - Kekaya conflicts with the Madra king, father of Savitri."
+29,Kalmashapada,Saudāsa (pl.),"Same figure, legendary",patronymic Saudasa; killing of Shakti son of Vasishtha; Vasishtha enmity,"'descendants of Sudās, who ... cast Śakti, the son of Vasiṣṭha, into the fire' - the epic Kalmashapada episode, but the record is a plural family name, not an individual."
+30,Ugrasena (brother of Janamejaya),Ugrasena,Grade 3,father Parikshit (Pārikṣitīya); brothers Janamejaya/Bhimasena/Shrutasena; royal horse sacrifice,"'being, with Bhīmasena and Śrutasena, a Pārikṣitīya and a brother of Janamejaya', cleansed 'by the horse sacrifice'."
+31,Bharadvaja,Bharadvāja,"Same figure, legendary",role sage,"'the reputed author of the sixth Maṇḍala' who 'can hardly be deemed to have been a contemporary' and is cited 'irrespective of chronology' - the eponymous seer, legendary; no link to Drona."
+32,Yayati,Yayāti,Grade 2,father Nahusha; role king,"'once as Nahuṣya, descendant of Nahuṣa, apparently a king' - patronymic and role match."
+33,Nakula,Nakula,Not identified,,"'Nakula, ichneumon' - an animal, wrong record."
+34,Bhima,Bhīmasena / Bhīma Vaidarbha,Disqualified,,"Bhīmasena is 'one of the brothers of Janamejaya, the Pārikṣitīyas' (father Parikshit, not Pandu) and Bhīma is 'prince of Vidarbha' - both conflict."
+35,Yajnavalkya,Yājñavalkya,Grade 2,associate Janaka; role sage,"Ritual/philosophical authority with 'the legend of Janaka's patronage of him', but the entry calls the Videha link 'doubtful'; Vaishampayana not named."
+36,Shantanu,Śaṃtanu,Grade 2,brother Devapi; Kuru king; drought episode,"'He supersedes his elder brother Devāpi as king of the Kurus' with drought and rain-sacrifice, but this is 'a tale told by Yāska' and in the Rigveda 'There is no hint of relationship at all' (the Devāpi entry also suggests a patronymic 'Aulāna')."
+37,Kuru,Kuruśravaṇa Trāsadasyava,Not identified,,"Different name (Kuruśravaṇa) and 'his father Mitrātithi', not Samvarana."
+38,Balarama,Rāma (1-4),Disqualified,,"Named Rāmas carry other patronymics ('Aupatasvini', 'Krātu-jāteya', 'Mārga-veya') or none; none is son of Vasudeva."
+39,Parashurama,Rāma (1-4) / Bhārgava,Disqualified,,"Rāmas bear patronymics other than Jāmadagnya ('Aupatasvini', 'Krātu-jāteya', 'Mārga-veya') and 'Bhārgava' is a patronymic 'of several teachers, including Cyavana and Gṛtsamada'."
+40,Shakti,1. Śakti,Grade 3,father Vasishtha; role sage; death through Vishvamitra's party (Kalmashapada/Saudasa episode),"'the son of Vasiṣṭha, and to have been cast into the fire by the Viśvāmitras' / burnt in revenge by Viśvāmitra - father, role and distinctive death episode match."
+41,Sahadeva,Sahadeva (Sārñjaya),Disqualified,,'a prince ... identical with King Sahadeva Sārñjaya' - Sṛñjaya patronymic/people conflicts with son of Pandu.
+42,Mandhatri,Mandhātṛ Yauvanāśva,Grade 2,father Yuvanashva; role king/emperor,'Mandhātṛ Yauvanāśva (descendant of Yuvanāśva) is ... the name of an emperor' - patronymic and royal role match.
+43,Harishchandra,Vaidhasa (Hariścandra),Disqualified,,"'Vaidhasa, descendant of Vedhas, is the patronymic of Hariścandra' - conflicts with father Trishanku."
+44,Puru,Pūru,Tribe not person,,"'Pūru is the name of a people and their king', mentioned 'with the Anus, Druhyus, Turvaśas, and Yadus'."
+45,Draupadi,Kṛṣṇa / Pāñcāla / Yajñasena,Not identified,,"Records are male seers, 'a king of the Pañcāla people' and 'a teacher' - none is the woman Draupadi."
+46,Bahlika,Prātipīya (Balhika),Grade 2,father Pratipa,"'Prāti-pīya is the patronymic of Balhika' - the rare patronymic matches exactly with no conflict, though it is the only mark."
+47,Shrutasena,Śrutasena,Grade 2,brother Janamejaya; father Parikshit (via Pārikṣita entry),"'one of the brothers of Janamejaya', and the Pārikṣita entry names the Pārikṣitīya brothers 'Ugrasena, Bhīmasena, and Śrutasena'."
+48,Janaka,Janaka,Grade 3,people Videha; role king; associates Yajnavalkya and Shvetaketu,"'Janaka, king of Videha ... contemporary of Yājñavalkya Vājasaneya, of Śvetaketu Āruṇeya' - people, role and associate match (epic name may be dynastic)."
+49,Vasishtha,Vasiṣṭha,Grade 2,son Shakti; rival Vishvamitra; enmity with Saudasas; role priest,"Son Śakti, 'his hostility to Viśvāmitra' and the 'Saudāsas' match, but 'That by the name Vasiṣṭha a definite individual is always meant is most improbable'."
+50,Kamsa,Vāraki (Kaṃsa),Disqualified,,"'Vāraki, descendant of Varaka, is the patronymic of Kaṃsa' - conflicts with father Ugrasena."
+51,Agastya,Agastya,"Same figure, legendary",spouse Lopamudra; role sage,"'a sage, of mythical character' with 'a strange dialogue with Lopāmudrā' - same figure, treated as mythical."
+52,Pratipa,Pratīpa Prātisatvana,Disqualified,,"'Pratīpa Prātisatvana' carries a patronymic other than Bhimasena, and the Parikṣit entry states 'Devāpi and Śantanu cannot be brought into connexion with Pratīpa'."
+53,Dhritarashtra,2. Dhṛtarāṣṭra Vaicitravīrya,Grade 2,father Vichitravirya; role king; dispute with Vaka Dalbhi (epic Baka Dalbhya episode),"'Dhṛtarāṣṭra Vaicitra-vīrya (descendant of Vicitra-vīrya)', a king in dispute with 'Vaka Dālbhi', but the entry says 'there is no ground for supposing that he was a Kuru-Pañcāla king' (rather king of Kāśi)."
+54,Vishvamitra,Viśvāmitra,Grade 2,descent Kushika/Gathins; rival Vasishtha; legend of former kingship,"'son of Kuśika', relations to 'Vasiṣṭha', and the PB 'mentions Viśvāmitra as a king', but he 'becomes, like Vasiṣṭha, a mythical sage' and the kingship 'may probably be dismissed as a mere legend'."
+55,Samvarana,Saṃvaraṇa / Sāṃvaraṇi,Disqualified,,"'Saṃvaraṇa is the name of a Ṛṣi' (role conflict with king) and Sāṃvaraṇi is 'a patronymic ... of Manu', not of Kuru."
+56,Parikshit,Parikṣit,Grade 2,role king; people Kuru; son Janamejaya (Pārikṣita),"'a king in whose realm, that of the Kurus, prosperity ... abound', and 'King Janamejaya bears the patronymic Pārikṣita', but Roth and Bloomfield regard him 'not as a human king at all'."
+57,Indrota,2. Indrota Daivāpa Śaunaka,Grade 3,associate Janamejaya; role priest; family Shaunaka; horse-sacrifice episode,"'the priest who officiated at the horse sacrifice of Janamejaya' with the name Śaunaka - associate, role, family and episode match (AB credits Tura Kāvaṣeya)."
+58,Kahoda,Kahoḍa Kauṣītaki,Weak,role teacher; Yajnavalkya-era setting,"'a teacher, contemporary with Yājñavalkya' - role and setting only; Uddalaka, Sujata and Ashtavakra are not named."
+59,Yadu,Yadu,Tribe not person,,"'Yadu is the name of a tribe and of the king of the tribe', with Turvaśa, Anu and Druhyu."
+60,Krishna,3. Kṛṣṇa Devakī-putra,Grade 2,mother Devaki; teacher Ghora Angirasa,"'Kṛṣṇa Devakī-putra ... a pupil of the mythical Ghora Āṅgirasa' matches mother and associate, but the identity with the hero is 'extremely doubtful'."
+61,Shikhandi,Śikhaṇḍin Yājñasena,Disqualified,father Yajnasena (Drupada alt name),"'Śikhaṇḍin Yājñasena (descendant of Yajñasena)' fits the patronymic, but he was 'a priest of Keśin Dālbhya', conflicting with the warrior."

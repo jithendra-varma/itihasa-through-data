@@ -1,0 +1,25 @@
+{
+  "title": "Are the People of the Mahābhārata Real? Data, code and protocol for a pre-registered record-linkage test against the Vedic corpus",
+  "upload_type": "dataset",
+  "description": "Epic-side dataset of 107 Mahābhārata persons coded from the epic's genealogies, scripts that parse every person record in the Vedic Index of Names and Subjects (Macdonell & Keith 1912) and score identifications with Fellegi–Sunter record linkage on Mykytiuk's identifying marks, the pre-registration protocol with all amendments, battle-test outputs, both hand reviews, and the paper. Third-party texts are downloaded by fetch_sources.sh and are not redistributed.",
+  "creators": [
+    {
+      "name": "Chamarthi, Jithendra Varma",
+      "affiliation": "Independent Researcher",
+      "orcid": "0000-0001-9467-5612"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "Mahabharata",
+    "Vedic literature",
+    "record linkage",
+    "Fellegi-Sunter",
+    "pre-registration",
+    "digital humanities",
+    "prosopography"
+  ],
+  "version": "1.0.1",
+  "language": "eng",
+  "notes": "Paper 1 of the series Itihāsa Through Data."
+}

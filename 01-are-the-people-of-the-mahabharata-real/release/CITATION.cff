@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below. Paper 1 of the series Itihāsa Through Data."
+title: "Are the People of the Mahābhārata Real? Data, code and protocol for a pre-registered record-linkage test against the Vedic corpus"
+authors:
+  - family-names: Chamarthi
+    given-names: Jithendra Varma
+    orcid: "https://orcid.org/0000-0001-9467-5612"
+    affiliation: "Independent Researcher"
+version: "1.0.1"
+doi: "10.5281/zenodo.23875710"
+date-released: "2026-11-03"
+license: "CC-BY-4.0"
+keywords: [Mahabharata, Vedic literature, record linkage, Fellegi-Sunter, pre-registration, digital humanities]

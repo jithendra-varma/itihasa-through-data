@@ -1,0 +1,159 @@
+{
+ "n_epic": 107,
+ "n_vedic": 1943,
+ "observed_grade2plus": 24,
+ "T1": {
+  "null_mean": 9.42,
+  "null_p99": 13,
+  "null_max": 16,
+  "p_value": 0.000999000999000999,
+  "passed": true
+ },
+ "T2": {
+  "pairs": 207801,
+  "false_grade2plus": 2698,
+  "rate": 0.012983575632456052,
+  "passed": false
+ },
+ "T3": {
+  "results": {
+   "Bharata": "Grade 2",
+   "Yayati": "No Vedic candidate",
+   "Pururavas": "Grade 3",
+   "Mandhatri": "Grade 3",
+   "Nala": "No Vedic candidate",
+   "Uddalaka": "Grade 2",
+   "Shvetaketu": "Grade 3",
+   "Yajnavalkya": "Weak",
+   "Janaka": "Grade 3"
+  },
+  "found": 6,
+  "needed": 6,
+  "passed": true
+ },
+ "T4": {
+  "variants": [
+   "prior 1:3",
+   "prior 1:30",
+   "pat.m x0.75",
+   "pat.m x1.25",
+   "pat.u x0.75",
+   "pat.u x1.25",
+   "rel.m x0.75",
+   "rel.m x1.25",
+   "rel.u x0.75",
+   "rel.u x1.25",
+   "role.m x0.75",
+   "role.m x1.25",
+   "role.u x0.75",
+   "role.u x1.25",
+   "people.m x0.75",
+   "people.m x1.25",
+   "people.u x0.75",
+   "people.u x1.25"
+  ],
+  "changed": [
+   "Shantanu",
+   "Vyasa",
+   "Gandhari",
+   "Madri",
+   "Yudhishthira",
+   "Bhima",
+   "Arjuna",
+   "Sahadeva",
+   "Draupadi",
+   "Drupada",
+   "Shikhandi",
+   "Janamejaya",
+   "Shrutasena",
+   "Karna",
+   "Shakuni",
+   "Kripa",
+   "Krishna",
+   "Balarama",
+   "Satyaki",
+   "Vaishampayana",
+   "Indrota",
+   "Bharata",
+   "Shakuntala",
+   "Samvarana",
+   "Nahusha",
+   "Ayu",
+   "Mandhatri",
+   "Uddalaka",
+   "Shvetaketu",
+   "Kahoda",
+   "Janaka",
+   "Yajnavalkya",
+   "Vasishtha",
+   "Vishvamitra",
+   "Shakti",
+   "Parashurama",
+   "Jamadagni",
+   "Bharadvaja",
+   "Agastya",
+   "Narada",
+   "Ashvapati",
+   "Rama"
+  ]
+ }
+}
+Parikshit                    Pariksit                     Grade 3         p=1.0    robust=yes | relatives named: Janamejaya, Bhimasena, Ugrasena, Shrutasena; role royal = royal
+Ugrasena (brother of Janamej Ugrasena                     Grade 3         p=1.0    robust=yes | relatives named: Janamejaya, Bhimasena; role royal = royal; people named
+Yadu                         Yadu                         Grade 3         p=1.0    robust=yes | relatives named: Turvasu, Druhyu; people named
+Bahlika                      Balhika Pratipiya            Grade 3         p=0.995  robust=yes | patronymic Pratipiya = parent; role royal = royal; people named
+Dhritarashtra                Dhrtaristra Vaicitravirya    Grade 3         p=0.995  robust=yes | patronymic Vaicitravirya = parent; role royal = royal; people named
+Pururavas                    Pururavas                    Grade 3         p=0.991  robust=yes | relatives named: Urvashi; role royal = royal
+Kalmashapada                 Saudasa                      Grade 3         p=0.987  robust=yes | relatives named: Sudasa, Vasishtha
+Puru                         Puru                         Grade 3         p=0.984  robust=yes | relatives named: Turvasu; people named
+Mandhatri                    Mandhatr                     Grade 3         p=0.981  robust=no (Grade 2 / Grade 3) | relatives named: Yuvanashva
+Janamejaya                   Janamejaya                   Grade 3         p=0.969  robust=no (Grade 2 / Grade 3) | relatives named: Parikshit; role royal = royal
+Draupadi                     Pancala                      Grade 3         p=0.968  robust=no (Grade 2 / Grade 3) | relatives named: Arjuna; people named
+Janaka                       Janaka                       Grade 3         p=0.964  robust=no (Grade 2 / Grade 3) | relatives named: Yajnavalkya; role royal = royal
+Shakuni                      Saubala                      Grade 3         p=0.964  robust=no (Grade 2 / Grade 3) | relatives named: Subala
+Shvetaketu                   ^vetaketu Aruneya            Grade 3         p=0.962  robust=no (Grade 2 / Grade 3) | patronymic Aruneya = parent; role sage = sage
+Vyasa                        Vyasa Parasarya              Grade 3         p=0.962  robust=no (Grade 2 / Grade 3) | patronymic Parasarya = parent; role sage = sage
+Shantanu                     ^amtanu                      Grade 3         p=0.955  robust=no (Grade 2 / Grade 3) | relatives named: Devapi; role royal = royal
+Uddalaka                     Aruni                        Grade 2         p=0.898  robust=no (Grade 2 / Grade 3) | relatives named: Shvetaketu
+Madri                        Madra                        Grade 2         p=0.856  robust=no (Grade 2 / Grade 3) | people named
+Shakuntala                   Sakuntala                    Grade 2         p=0.736  robust=no (Grade 2 / Weak) | relatives named: Bharata
+Gandhari                     Gandhara                     Grade 2         p=0.704  robust=no (Grade 2 / Weak) | people named
+Bharata                      Bharata                      Grade 2         p=0.653  robust=no (Grade 2 / Weak) | role royal = royal; people named
+Indrota                      Indrota Atithigva            Grade 2         p=0.557  robust=no (Grade 2 / Weak) | relatives named: Janamejaya; role royal != sage
+Krishna                      Krsna Devaklputra            Grade 2         p=0.548  robust=no (Grade 2 / Weak) | patronymic Devaklputra = parent; role sage != royal
+Shikhandi                    ^ikhandin Yajnasena          Grade 2         p=0.548  robust=no (Grade 2 / Weak) | patronymic Yajnasena = parent; role sage != royal
+Karna                        Radheya                      Weak            p=0.443  robust=no (Grade 2 / Weak) | relatives named: Parashurama; role sage != royal
+Arjuna                       Phalguna                     Weak            p=0.442  robust=no (Grade 2 / Weak) | people named
+Agastya                      Agastya                      Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Ashvapati                    A^vapati Kaikeya             Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Ayu                          Ayu                          Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Bharadvaja                   Bharadvaja                   Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Bhima                        Bhimasena                    Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Narada                       Narada                       Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Sahadeva                     Sahadeva                     Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Shrutasena                   ^rutasena                    Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Vaishampayana                Vaisampayana                 Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Vasishtha                    Vasistha                     Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Vishvamitra                  Vi^vamitra                   Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Yajnavalkya                  Yajnavalkya                  Weak            p=0.231  robust=no (Grade 2 / Weak) | role sage = sage
+Yudhishthira                 Ajataiatru                   Weak            p=0.231  robust=no (Grade 2 / Weak) | role royal = royal
+Balarama                     Rama                         Weak            p=0.091  robust=no (Not identified / Weak) | 
+Drupada                      Yajnasena                    Weak            p=0.091  robust=no (Not identified / Weak) | 
+Jamadagni                    Jamadagni                    Weak            p=0.091  robust=no (Not identified / Weak) | 
+Kahoda                       Kahoda Kausitaki             Weak            p=0.091  robust=no (Not identified / Weak) | 
+Kripa                        Krpa                         Weak            p=0.091  robust=no (Not identified / Weak) | 
+Nahusha                      Nahusa                       Weak            p=0.091  robust=no (Not identified / Weak) | 
+Parashurama                  Rama                         Weak            p=0.091  robust=no (Not identified / Weak) | 
+Rama                         Rama                         Weak            p=0.091  robust=no (Not identified / Weak) | 
+Samvarana                    Samvarani                    Weak            p=0.091  robust=no (Not identified / Weak) | 
+Satyaki                      Satyaki                      Weak            p=0.091  robust=no (Not identified / Weak) | 
+Shakti                       Sakti                        Weak            p=0.091  robust=no (Not identified / Weak) | 
+Devaki                       Devaka Manyamana             Disqualified    p=0.0    robust=yes | patronymic Manyamana does not match epic parent(s) Devaka
+Devapi                       Devapi Arstisena             Disqualified    p=0.0    robust=yes | patronymic Arstisena does not match epic parent(s) Pratipa, Sunanda
+Pratipa                      Pratipa Pratisatvana         Disqualified    p=0.0    robust=yes | patronymic Pratisatvana does not match epic parent(s) Bhimasena
+Shatanika                    Satanika ^StrSjita           Disqualified    p=0.0    robust=yes | patronymic ^StrSjita does not match epic parent(s) Janamejaya, Vapushtama
+Shatanika (son of Nakula)    Satanika ^StrSjita           Disqualified    p=0.0    robust=yes | patronymic ^StrSjita does not match epic parent(s) Nakula, Draupadi
+Somaka                       Somaka Sahadcvya             Disqualified    p=0.0    robust=yes | patronymic Sahadcvya does not match epic parent(s) Sahadeva
+Uttara                       Uttara Asadha Para^arya      Disqualified    p=0.0    robust=yes | patronymic Asadha Para^arya does not match epic parent(s) Virata
+Vichitravirya                Vaicitravirya Dhftarastra    Disqualified    p=0.0    robust=yes | patronymic Dhftarastra does not match epic parent(s) Shantanu, Satyavati
+No Vedic candidate: Abhimanyu, Ashtavakra, Ashvatthama, Astika, Bhagadatta, Bhishma, Bhurishravas, Chitrangada, Damayanti, Devayani, Dhaumya, Dhrishtadyumna, Drona, Duhshasana, Durvasa, Duryodhana, Dushyanta, Ghatotkacha, Hanuman, Harishchandra, Jarasandha, Jayadratha, Kamsa, Kritavarma, Kunti, Kuru, Markandeya, Nakula, Nala, Pandu, Parashara, Ravana, Sanjaya, Satyavati, Savitri, Shalya, Shaunaka, Shishupala, Sita, Somadatta, Subhadra, Ugrashravas, Urvashi, Uttanka, Vasudeva (father of Krishna), Vidura, Virata, Yayati, Yuyutsu

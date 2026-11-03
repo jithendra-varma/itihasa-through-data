@@ -1,0 +1,108 @@
+person,vedic,vedic_role,bits,p,grade,why,robust
+Janamejaya,Janamejaya,,36.2,1.0,Grade 3,"relatives named: Bhimasena (sibling), Ugrasena (sibling), Shrutasena (sibling), Indrota (assoc); role royal = royal; people named",yes
+Ugrasena (brother of Janamejaya),Ugrasena,,22.4,1.0,Grade 3,"relatives named: Janamejaya (sibling), Bhimasena (sibling), Shrutasena (sibling)",yes
+Somaka,Somaka Sāhadevya,,14.2,0.999,Grade 3,patronymic Sāhadevya = parent; role royal = royal; people named,yes
+Vasishtha,Vasiṣṭha,,13.3,0.999,Grade 3,"relatives named: Shakti (child), Vishvamitra (assoc)",yes
+Bahlika,Balhika Prātipīya,,12.0,0.998,Grade 3,patronymic Prātipīya = parent; role royal = royal; people named,yes
+Yayati,Yayāti,,11.2,0.996,Grade 3,relatives named: Nahusha (parent); role royal = royal,yes
+Bharata,Bharata Dauḥṣanti,,10.4,0.993,Grade 3,patronymic Dauḥṣanti = parent; people named,yes
+Dhritarashtra,Dhṛtarāṣṭra Vaicitravīrya,,10.4,0.993,Grade 3,patronymic Vaicitravīrya = parent; people named,yes
+Krishna,Devakīputra,,9.9,0.99,Grade 3,relatives named: Devaki (parent); role royal = royal,yes
+Uddalaka,Uddālaka Āruṇi,,9.5,0.986,Grade 3,second name Āruṇi = own epithet or people; relatives named: Shvetaketu (child); role sage = sage,yes
+Pururavas,Purūravas,,9.1,0.982,Grade 3,role royal = royal; people named,no (Grade 2 / Grade 3)
+Shantanu,Śaṃtanu,,8.9,0.98,Grade 3,relatives named: Devapi (sibling); role royal = royal,no (Grade 2 / Grade 3)
+Indrota,Indrota Daivāpa Śaunaka,,8.6,0.974,Grade 3,relatives named: Janamejaya (assoc); role sage = sage,no (Grade 2 / Grade 3)
+Mandhatri,Mandhātṛ Yauvanāśva,,8.0,0.962,Grade 3,patronymic Yauvanāśva = parent; role royal = royal,no (Grade 2 / Grade 3)
+Vyasa,Vyāsa Pārāśarya,,8.0,0.962,Grade 3,patronymic Pārāśarya = parent; role sage = sage,no (Grade 2 / Grade 3)
+Vishvamitra,Viśvāmitra,,7.4,0.944,Grade 2,relatives named: Vasishtha (assoc); role sage = sage,no (Grade 2 / Grade 3)
+Shrutasena,Śrutasena,,7.0,0.927,Grade 2,relatives named: Janamejaya (sibling),no (Grade 2 / Grade 3)
+Shvetaketu,Śvetaketu,,6.8,0.916,Grade 2,relatives named: Uddalaka (parent),no (Grade 2 / Grade 3)
+Shakti,Śakti,,5.8,0.85,Grade 2,relatives named: Vasishtha (parent),yes
+Janaka,Janaka,,5.6,0.828,Grade 2,role royal = royal; people named,yes
+Kuru,Kuru,,4.0,0.616,Grade 2,people named,no (Grade 2 / Weak)
+Agastya,Agastya,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Ashvapati,Aśvapati,,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Bharadvaja,Bharadvāja,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Jamadagni,Jamadagni,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Kahoda,Kahoḍa Kauṣītaki,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Kripa,Gautama,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Narada,Nārada,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Parashurama,Bhārgava,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Parikshit,Parikṣit,,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Sahadeva,Sahadeva,,1.6,0.231,Weak,role royal = royal,no (Grade 2 / Weak)
+Shaunaka,Śaunaka,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Vaishampayana,Vaiśaṃpāyana,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Yajnavalkya,Yājñavalkya,,1.6,0.231,Weak,role sage = sage,no (Grade 2 / Weak)
+Arjuna,Arjunī,,0.0,0.091,Weak,,no (Not identified / Weak)
+Balarama,Rāma,,0.0,0.091,Weak,,no (Not identified / Weak)
+Bhima,Bhīmasena,,0.0,0.091,Weak,,no (Not identified / Weak)
+Kalmashapada,Saudāsa,,0.0,0.091,Weak,,no (Not identified / Weak)
+Rama,Rāma,,0.0,0.091,Weak,,no (Not identified / Weak)
+Samvarana,Sāṃvaraṇi,,0.0,0.091,Weak,,no (Not identified / Weak)
+Abhimanyu,,,,0.0,No Vedic candidate,,yes
+Ashtavakra,,,,0.0,No Vedic candidate,,yes
+Ashvatthama,,,,0.0,No Vedic candidate,,yes
+Astika,,,,0.0,No Vedic candidate,,yes
+Ayu,,,,0.0,No Vedic candidate,,yes
+Bhagadatta,,,,0.0,No Vedic candidate,,yes
+Bhishma,,,,0.0,No Vedic candidate,,yes
+Bhurishravas,,,,0.0,No Vedic candidate,,yes
+Chitrangada,,,,0.0,No Vedic candidate,,yes
+Damayanti,,,,0.0,No Vedic candidate,,yes
+Devayani,,,,0.0,No Vedic candidate,,yes
+Dhaumya,,,,0.0,No Vedic candidate,,yes
+Dhrishtadyumna,,,,0.0,No Vedic candidate,,yes
+Drona,,,,0.0,No Vedic candidate,,yes
+Duhshasana,,,,0.0,No Vedic candidate,,yes
+Durvasa,,,,0.0,No Vedic candidate,,yes
+Duryodhana,,,,0.0,No Vedic candidate,,yes
+Dushyanta,,,,0.0,No Vedic candidate,,yes
+Ghatotkacha,,,,0.0,No Vedic candidate,,yes
+Hanuman,,,,0.0,No Vedic candidate,,yes
+Jarasandha,,,,0.0,No Vedic candidate,,yes
+Jayadratha,,,,0.0,No Vedic candidate,,yes
+Kritavarma,,,,0.0,No Vedic candidate,,yes
+Kunti,,,,0.0,No Vedic candidate,,yes
+Madri,,,,0.0,No Vedic candidate,,yes
+Markandeya,,,,0.0,No Vedic candidate,,yes
+Nahusha,,,,0.0,No Vedic candidate,,yes
+Nala,,,,0.0,No Vedic candidate,,yes
+Pandu,,,,0.0,No Vedic candidate,,yes
+Ravana,,,,0.0,No Vedic candidate,,yes
+Sanjaya,,,,0.0,No Vedic candidate,,yes
+Satyaki,,,,0.0,No Vedic candidate,,yes
+Satyavati,,,,0.0,No Vedic candidate,,yes
+Savitri,,,,0.0,No Vedic candidate,,yes
+Shalya,,,,0.0,No Vedic candidate,,yes
+Shishupala,,,,0.0,No Vedic candidate,,yes
+Sita,,,,0.0,No Vedic candidate,,yes
+Somadatta,,,,0.0,No Vedic candidate,,yes
+Subhadra,,,,0.0,No Vedic candidate,,yes
+Ugrashravas,,,,0.0,No Vedic candidate,,yes
+Urvashi,,,,0.0,No Vedic candidate,,yes
+Uttanka,,,,0.0,No Vedic candidate,,yes
+Vasudeva (father of Krishna),,,,0.0,No Vedic candidate,,yes
+Vichitravirya,,,,0.0,No Vedic candidate,,yes
+Vidura,,,,0.0,No Vedic candidate,,yes
+Virata,,,,0.0,No Vedic candidate,,yes
+Yudhishthira,,,,0.0,No Vedic candidate,,yes
+Yuyutsu,,,,0.0,No Vedic candidate,,yes
+Devaki,Devaka Mānyamāna,,,0.0,Disqualified,patronymic Mānyamāna does not match epic parent(s) Devaka,yes
+Devapi,Devāpi Ārṣṭiṣeṇa,,,0.0,Disqualified,"patronymic Ārṣṭiṣeṇa does not match epic parent(s) Pratipa, Sunanda",yes
+Draupadi,Kṛṣṇa,,,0.0,Disqualified,role conflict: Vedic sage vs epic woman,yes
+Drupada,Yajñasena,,,0.0,Disqualified,role conflict: Vedic sage vs epic royal,yes
+Gandhari,Gāndhāra,,,0.0,Disqualified,role conflict: Vedic royal vs epic woman,yes
+Harishchandra,Hariścandra Vaidhasa,,,0.0,Disqualified,patronymic Vaidhasa does not match epic parent(s) Trishanku,yes
+Kamsa,Kaṃsa Vāraki,,,0.0,Disqualified,patronymic Vāraki does not match epic parent(s) Ugrasena,yes
+Karna,Rādheya,,,0.0,Disqualified,role conflict: Vedic sage vs epic royal,yes
+Nakula,Nakula,,,0.0,Disqualified,Vedic namesake is a god or mythic being,yes
+Parashara,Parāśara,,,0.0,Disqualified,role conflict: Vedic royal vs epic sage,yes
+Pratipa,Pratīpa Prātisatvana,,,0.0,Disqualified,patronymic Prātisatvana does not match epic parent(s) Bhimasena,yes
+Puru,Pūru,,,0.0,Disqualified,"tribe or people, not a person",yes
+Shakuni,Saubala,,,0.0,Disqualified,role conflict: Vedic sage vs epic royal,yes
+Shakuntala,Śakuntalā,,,0.0,Disqualified,Vedic namesake is a god or mythic being,yes
+Shatanika,Śatānīka Sātrājita,,,0.0,Disqualified,"patronymic Sātrājita does not match epic parent(s) Janamejaya, Vapushtama",yes
+Shatanika (son of Nakula),Śatānīka Sātrājita,,,0.0,Disqualified,"patronymic Sātrājita does not match epic parent(s) Nakula, Draupadi",yes
+Shikhandi,Śikhaṇḍin Yājñasena,,,0.0,Disqualified,role conflict: Vedic sage vs epic royal,yes
+Uttara,Uttara Kuru,,,0.0,Disqualified,patronymic Kuru does not match epic parent(s) Virata,yes
+Yadu,Yadu,,,0.0,Disqualified,"tribe or people, not a person",yes

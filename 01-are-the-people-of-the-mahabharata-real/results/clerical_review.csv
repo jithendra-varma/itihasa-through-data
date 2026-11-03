@@ -1,0 +1,38 @@
+person,automatic_vedic_match,automatic_grade,reviewed_vedic_person,reviewed_grade,reason
+Janamejaya,Janamejaya,Grade 3,Janamejaya Parikshita (SB 13.5.4; AB 8.21),Grade 3,"Father Parikshit; brothers Ugrasena, Bhimasena, Shrutasena; priest Indrota; same episode (horse sacrifice cleansing him of killing a Brahmin, SB 13.5.4.1 = MBh 12.146-148)"
+Ugrasena (brother of Janamejaya),Ugrasena,Grade 3,Ugrasena Parikshitiya (SB 13.5.4.3),Grade 3,Named with Bhimasena and Shrutasena as a Parikshitiya and brother of Janamejaya
+Shrutasena,Srutasena,Weak,Shrutasena Parikshitiya (SB 13.5.4.3),Grade 3,Upgraded in review: same passage as Ugrasena; automatic run lost the brothers because the entry is filed under Ugrasena
+Indrota,Indrota Atithigva (wrong homonym),Grade 2,Indrota Daivapa Shaunaka (SB 13.5.4.1),Grade 3,Automatic run picked the Rigvedic Indrota; the second entry is Janamejaya's priest in the same expiation episode as the epic
+Parikshit,Pariksit,Grade 3,Parikshit (AV 20.127.7-10),Grade 2,Downgraded: Roth and Bloomfield read the hymn's Parikshit as Agni; Vedic Index: 'may be correct but not certain'
+Bahlika,Balhika Pratipiya,Grade 3,Balhika Pratipiya (SB 12.9.3.3),Grade 3,Name + patronymic (son of Pratipa) + Kuru king; Vedic Index: 'very possibly a descendant of Pratipa'
+Dhritarashtra,Dhrtarastra Vaicitravirya,Grade 3,Dhrtarastra Vaicitravirya (Kathaka Samhita),Grade 2,Downgraded: name + patronymic match and the Vaka Dalbhya quarrel recurs in the epic; but Vedic Index: 'no ground for supposing he was a Kuru-Pancala king'; CE 9.40.1 uses the same patronymic (vaicitraviryin) in the same Baka Dalbhya episode
+Shantanu,Samtanu,Grade 3,Samtanu (RV 10.98; Nirukta 2.10),Grade 2,Downgraded: the Rigveda gives 'no hint of relationship' with Devapi; the brother story is in the Nirukta
+Vyasa,Vyasa Parasarya,Grade 3,Vyasa Parasarya (teacher lists),Grade 2,Downgraded: only in late teacher lists; Vedic Index calls him 'a mythical sage'
+Krishna,Krsna Devakiputra,Grade 2,Krsna Devakiputra (Chandogya Up. 3.17.6),Grade 2,Name + mother Devaki; but a pupil of Ghora Angirasa with no royal context; Vedic Index: identification 'extremely doubtful'
+Somaka,Somaka Sahadevya (disqualified by OCR),Disqualified,Somaka Sahadevya (RV 4.15; AB 7.34),Grade 2,Name + king of the Srnjayas (Pancala setting) + Sahadeva named with him in both; but the Critical Edition never states Sahadeva is his father (3.125.23 lists them side by side). Downgraded after the CE check
+Shvetaketu,Svetaketu Aruneya,Grade 3,Svetaketu Aruneya,Grade 3,Name + patronymic (son of Aruni/Uddalaka) + teacher; disputing among the Pancalas
+Uddalaka,Aruni,Grade 2,Uddalaka Aruni,Grade 3,Upgraded: father of Svetaketu; Pancala setting; epic's Aruni Panchalya
+Janaka,Janaka,Grade 3,Janaka of Videha,Grade 3,Patron of Yajnavalkya in both
+Yajnavalkya,Yajnavalkya,Weak,Yajnavalkya Vajasaneya,Grade 3,Upgraded: teacher at Janaka's court in both (automatic run missed Janaka in the entry)
+Mandhatri,Mandhatr,Grade 3,Mandhatr Yauvanasva,Grade 3,Name + patronymic (son of Yuvanashva) + king
+Bharata,Bharata (the tribe),Grade 2,Bharata Dauhsanti (SB 13.5.4.11-14),Grade 3,Automatic run matched the tribe; the person is filed under 'Dauhsanti' (son of Dushyanta); same passage names Shakuntala as his mother
+Kalmashapada,Saudasa (plural),Grade 3,The Saudasas (Jaiminiya Br.),Grade 2,Downgraded: same story (descendants of Sudas kill Shakti son of Vasishtha) but the Vedic texts speak of a family not one man
+Pururavas,Pururavas,Grade 3,Pururavas Aila,Same figure; possibly mythical,Same figure (dialogue with Urvashi); Vedic Index: 'impossible to say whether mythical or a real king'
+Shakuntala,Sakuntala,Grade 2,Sakuntala (SB 13.5.4.13),Same figure; mythical,An Apsaras (nymph) who bore Bharata
+Shikhandi,Sikhandin Yajnasena,Grade 2,Sikhandin Yajnasena (Kausitaki Br. 7.4),Weak,Downgraded: name + patronymic match but a priest of Kesin Dalbhya not a warrior (conflicting mark)
+Shakuni,Saubala,Grade 3,Saubala (AB 6.24),Weak,Downgraded: only the patronymic matches; the Vedic Saubala is a pupil of Sarpi Vatsi
+Devapi,Devapi Arstisena,Disqualified,Devapi Arstisena,Disqualified,Father Rstisena not Pratipa; Vedic Index: two Devapi stories 'confused'
+Pratipa,Pratipa Pratisatvana,Disqualified,Pratipa Pratisatvana,Disqualified,Different patronymic; may not even be a name
+Shatanika,Satanika Satrajita,Disqualified,Satanika Satrajita,Disqualified,Father Satrajit not Janamejaya
+Yadu,Yadu,Grade 3,Yadu (a tribe),Tribe not person,Rigvedic tribe listed with Turvasha and Druhyu; the epic makes them brothers
+Puru,Puru,Grade 3,Puru (a tribe),Tribe not person,Rigvedic tribe; the epic makes Puru a son of Yayati
+Draupadi,Pancala (a people),Grade 3,none,Not identified,Wrong candidate: her epithet Panchali matched the people's name
+Madri,Madra (a people),Grade 2,none,Not identified,Wrong candidate: a people
+Gandhari,Gandhara (a people),Grade 2,none,Not identified,Wrong candidate: a people
+Uttara,Uttara (northern),Disqualified,none,Not identified,Wrong candidate
+Vichitravirya,Vaicitravirya (cross-reference),Disqualified,none,Name attested only as a patronymic,His name survives only as Dhritarashtra's patronymic
+Vasishtha,Vasistha (v2),Grade 3,Vasistha (Rigveda book 7),Same figure; a priestly family name,Son Shakti and rival Vishvamitra match; but Vedic Index: 'that a definite individual is always meant is most improbable'
+Yayati,Yayati (v2),Grade 3,Yayati Nahusya (Rigveda),Same figure; legendary,Name + father Nahusha + king; but only 'an ancient sacrificer' in the Rigveda
+Vishvamitra,Visvamitra (v2),Grade 2,Visvamitra (Rigveda book 3),Same figure; legendary,Rigvedic seer; son of Kusika (epic: Kaushika line); rival of Vasishtha in both
+Shakti,Sakti (v2),Grade 2,Sakti (Jaiminiya Br.),Grade 3,Son of Vasishtha; killed by fire at the instigation of the Vishvamitras: same story as the epic
+Kuru,Kuru (v2: matched Kurusravana),Grade 2,none,Not identified,Wrong candidate: the entry is about Kurusravana Trasadasyava
