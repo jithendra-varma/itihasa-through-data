@@ -141,4 +141,22 @@ Each reading's percentile is reported within A and within U. Q4 has no ledger en
 
 ## 11. Amendments
 
-None yet.
+### Amendment 1 (6 November 2026, Stage A, before any army figure was collected)
+
+**Reason.** Frame W came out at 775 battles. Five points in section 4 were ambiguous enough that coders could read them differently. No figure, ratio or result had been seen.
+
+1. **Criterion (i)** covers any written source composed within 50 years of the event: inscriptions, documents, chronicles and narrative histories alike. So a battle known from one contemporary historian is class A.
+2. **Independence, for criterion (iii).** Two sources are independent unless one is known, or widely held, to derive from the other, or both from a common source. Examples: Livy and Dionysius of Halicarnassus both draw on the Roman annalists, and Diodorus Book 2 draws on Ctesias.
+3. **"Earliest surviving form," for texts first composed orally** (for example Homer and the Ṛgveda), is the scholarly consensus date at which the text was fixed, not the date of the oldest manuscript.
+4. **Both sides are coded.** The polity and home region (modern countries) are coded for each side, because which side carries the largest figure isn't known until Stage B.
+5. **Entries that aren't battles between armies** stay in the frame, for example massacres known only from archaeology. They drop at Stage B if no ancient source gives a figure.
+
+### Amendment 2 (6 November 2026, Stage A, before any army figure was collected; decided by the author)
+
+**Reason.** The first-pass coding of 775 Frame W battles and 48 Frame T episodes showed that coders read the region rule differently, that regions coded as whole modern countries are too coarse, and that some Frame T counts are not armies. No figure, ratio or result had been seen.
+
+1. **Region = the whole realm.** The region is all territory the polity held at the date, or the larger realm its source claims, whichever is larger. This replaces "home region" in section 5. Like the population rule, it favours the source. A people with no realm at the date, such as Israel before the settlement in the biblical account, takes the lands the source says the force came from and entered.
+2. **Sub-national areas.** Where a polity held only part of a modern country, the region names that part, using first-level administrative divisions (for example "Russia [Crimea]"). Population is then the HYDE 3.3 upper-scenario grid summed inside the coded area, and McEvedy and Jones are used where they give that area. This replaces "summed over the region's modern countries".
+3. **What counts as an army in Frame T.** A count qualifies only if it gives a force fielded or mustered for the war. Excluded: a contest of champions, a numeral that is part of a name or epithet, a stock formula for "the whole army", and a force proposed but never fielded. Raiding bands count. Episodes from Diodorus's comparison passage (2.5.5–7) count, and are merged with the same war in Frame W where it appears there.
+4. **One record per war, with conflicts decided blind by the author.** Where the two frames hold the same war, they become one record. Where coders classed the same war differently, or Frame W may list one battle twice, the case is added to the author's blind recode on top of the random 30%, and the author's code stands.
+5. **Lost contemporary sources.** A contemporary source that no longer survives counts for criterion (i) only where a later author explicitly cites it for this event. Most coders already applied this.

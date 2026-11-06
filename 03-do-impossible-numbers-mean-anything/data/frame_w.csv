@@ -1,0 +1,776 @@
+id,section,year,year_num,battle,article,locations,location_uncertain
+W001,Before 500 BC,"11,600 BC",-11600,Jebel Sahaba,Jebel Sahaba,Sudan,False
+W002,Before 500 BC,8000 BC,-8000,Nataruk,Nataruk,Kenya,False
+W003,Before 500 BC,6000 BC,-6000,Iberian Archer battles,Rock art of the Iberian Mediterranean Basin,Spain,False
+W004,Before 500 BC,5300&nbsp;BC,-5300,Els Trocs cave Massacre,:es:Masacre de la cueva de Els Trocs,Spain,False
+W005,Before 500 BC,5000&nbsp;BC,-5000,Attack on Talheim,Talheim Death Pit,Germany,False
+W006,Before 500 BC,5000&nbsp;BC,-5000,Massacre of Schletz,Massacre of Schletz,Austria,False
+W007,Before 500 BC,5000&nbsp;BC,-5000,Massacre of Kilianstädten,:de:Massaker von Kilianstädten,Germany,False
+W008,Before 500 BC,3320 BC,-3320,Battle of Naqada,Scorpion I,Egypt,False
+W009,Before 500 BC,3200 BC,-3200,Invasion of Maadi,Naqada III,Egypt,False
+W010,Before 500 BC,3100 BC,-3100,"Unification Battle of Egypt ""Narmer Palette Battle""",Narmer Palette,Egypt,False
+W011,Before 500 BC,2600 BC,-2600,Siege of Aratta,Enmerkar and the Lord of Aratta,Iran,True
+W012,Before 500 BC,2580 BC,-2580,Siege of Uruk,Gilgamesh and Aga,Iraq,False
+W013,Before 500 BC,c. 2450 BC,-2450,Battle of Umma,Umma-Lagash War,Iraq,False
+W014,Before 500 BC,c. 2334 BC,-2334,Battle of Uruk,Battle of Uruk,Iraq,False
+W015,Before 500 BC,c. 2300 BC,-2300,Battle of Terqa,Battle of Terqa,Syria,False
+W016,Before 500 BC,c. 2004 BC,-2004,Sack of Ur,Third Dynasty of Ur,Iraq,False
+W017,Before 500 BC,c. 1923 BC,-1923,Siege of Ur,Siege of Ur,Iraq,False
+W018,Before 500 BC,c. 1809 BC,-1809,Siege of Assur,Siege of Assur (1808 BC),Iraq,False
+W019,Before 500 BC,c. 1801 BC,-1801,Sack of Uruk,Sack of Uruk,Iraq,False
+W020,Before 500 BC,c. 1796 BC,-1796,Siege of Mari,Siege of Mari,Syria,False
+W021,Before 500 BC,c. 1792 BC,-1792,Sack of Isin,Sack of Isin,Iraq,False
+W022,Before 500 BC,c. 1780 BC,-1780,Siege of Qabra,Siege of Qabra,Iraq,False
+W023,Before 500 BC,c. 1764 BC,-1764,Siege of Hiritum,Siege of Hiritum,Iraq,False
+W024,Before 500 BC,c. 1763 BC,-1763,Siege of Larsa,Rim-Sîn I,Iraq,False
+W025,Before 500 BC,c. 1595 BC,-1595,Sack of Babylon,Sack of Babylon,Iraq,False
+W026,Before 500 BC,c. 1552 BC,-1552,Battle of Nefrusy,Nefrusy,Egypt,False
+W027,Before 500 BC,c. 1550 BC,-1550,Siege of Avaris,Avaris,Egypt,False
+W028,Before 500 BC,c. 1530 BC,-1530,Siege of Sharuhen,Siege of Sharuhen,Israel; Palestine,True
+W029,Before 500 BC,c. 1504 BC,-1504,Siege of Kerma,Kerma culture,Sudan,False
+W030,Before 500 BC,c. 1457 BC,-1457,Battle of Megiddo,Battle of Megiddo (15th century BC),Israel,False
+W031,Before 500 BC,c. 14th century BC,-1350,Battle of the Ten Kings,Battle of the Ten Kings,Pakistan; India,True
+W032,Before 500 BC,c. 1319 BC,-1319,Battle of the Astarpa,Battle of the Astarpa River,Turkey,False
+W033,Before 500 BC,c. 1312 BC,-1312,Battle of Ganuvara,Battle of Ganuvara,Turkey,False
+W034,Before 500 BC,c. 1332 BC,-1332,Battle of Sugagu,Battle of Sugagu,Iraq,False
+W035,Before 500 BC,c. 1300 BC,-1300,Battle at Gibeah,Battle at Gibeah,Palestine,False
+W036,Before 500 BC,c. 1280 BC,-1280,Battle of Kār Ištar,Battle of Kār Ištar,Iraq,False
+W037,Before 500 BC,c. 1278 BC,-1278,Ramesses II's Battle against Sherden pirates,Ramesses II,Turkey,False
+W038,Before 500 BC,c. 1275 BC – c. 1205 BC,-1275,Battles of Alashiya,Battles of Alashiya,Cyprus,False
+W039,Before 500 BC,c. 1274 BC,-1274,Battle of Kadesh,Battle of Kadesh,Syria; Lebanon,False
+W040,Before 500 BC,c. 1269 BC,-1269,Siege of Dapur,Siege of Dapur,Syria,False
+W041,Before 500 BC,c. 1250 BC,-1250,Battle of the Tollense,Tollense valley battlefield,Germany,False
+W042,Before 500 BC,c. 1237 BC,-1237,Battle of Nihriya,Battle of Nihriya,Turkey,False
+W043,Before 500 BC,c. 1225 BC,-1225,Sack of Babylon,Sack of Babylon (1225 BC),Iraq,False
+W044,Before 500 BC,c. 1208 BC,-1208,Battle of Perire,Battle of Perire,Egypt,False
+W045,Before 500 BC,c. 1184 BC,-1184,Siege of Troy,Siege of Troy,Turkey,False
+W046,Before 500 BC,c. 1178 BC,-1178,Battle of Djahy,Battle of Djahy,Lebanon,False
+W047,Before 500 BC,c. 1175 BC,-1175,Battle of the Delta,Battle of the Delta,Egypt,False
+W048,Before 500 BC,c. 1150 BC,-1150,Battle of Mount Tabor,Battle of Mount Tabor (biblical),Israel,False
+W049,Before 500 BC,c. 1122 BC,-1122,Battle of the River Ulaya,Battle of the River Ulaya,Iran,False
+W050,Before 500 BC,c. 1046 BC,-1046,Battle of Muye,Battle of Muye,China,False
+W051,Before 500 BC,c. 1025 BC,-1025,Battle of Michmash,Battle of Michmash,Palestine,False
+W052,Before 500 BC,c. 1010 BC,-1010,Battle of Mount Gilboa,Saul the King,Israel,False
+W053,Before 500 BC,c. 1010 BC,-1010,Siege of Jebus,Siege of Jebus,Palestine,False
+W054,Before 500 BC,c. 993 BC,-993,Siege of Rabbah,Siege of Rabbah,Jordan,False
+W055,Before 500 BC,925 BC,-925,Battle of Bitter Lakes,Battle of Bitter Lakes,Egypt,False
+W056,Before 500 BC,925 BC,-925,Sack of Jerusalem,Sack of Jerusalem (925 BC),Palestine,False
+W057,Before 500 BC,913 BC,-913,Battle of Mount Zemaraim,Battle of Mount Zemaraim,Palestine,False
+W058,Before 500 BC,878 BC,-878,Battle of Suru,Battle of Suru,Iraq,False
+W059,Before 500 BC,858 BC,-858,Sack of Sugunia,Shalmaneser III,Turkey; Iran,True
+W060,Before 500 BC,854 BC,-854,Sack of Araškun,Shalmaneser III,Turkey; Iran,True
+W061,Before 500 BC,853 BC,-853,Battle of Karkar,Battle of Karkar,Syria,False
+W062,Before 500 BC,814 BC,-814,Battle of Dur-Papsukkal,Battle of Dur-Papsukkal,Iraq; Iran,True
+W063,Before 500 BC,796 BC,-796,Siege of Damascus,Siege of Damascus (796 BC),Syria,False
+W064,Before 500 BC,771 BC,-771,Battle of Mount Li,Battle of Mount Li,China,False
+W065,Before 500 BC,c. 750 BC,-750,Battle of the Lacus Curtius,Battle of the Lacus Curtius,Italy,False
+W066,Before 500 BC,743–740 BC,-743,Siege of Arpad,Siege of Arpad,Syria,False
+W067,Before 500 BC,743 BC,-743,Battle of Kummuh,Battle of Kummuh,Turkey,False
+W068,Before 500 BC,733 BC,-733,Siege of Gezer,Siege of Gezer (c. 733 BC),Israel,False
+W069,Before 500 BC,724-720 BC,-724,Siege of Tyre,"History of Tyre, Lebanon",Lebanon,False
+W070,Before 500 BC,722 BC,-722,Siege of Samaria,Siege of Samaria,Palestine,False
+W071,Before 500 BC,720 BC,-720,Battle of Raphia (720 BC),Osorkon IV,Palestine,False
+W072,Before 500 BC,c. 715 BC,-715,Siege of Hermopolis,Siege of Hermopolis,Egypt,False
+W073,Before 500 BC,714 BC,-714,Battle of Lake Urmia,Battle of Lake Urmia,Iran,False
+W074,Before 500 BC,707 BC,-707,Battle of Xuge,Battle of Xuge,China,False
+W075,Before 500 BC,701 BC,-701,Siege of Azekah,Siege of Azekah,Israel,False
+W076,Before 500 BC,701 BC,-701,Siege of Lachish,Siege of Lachish,Israel,False
+W077,Before 500 BC,701 BC,-701,Siege of Jerusalem,Siege of Jerusalem (701 BC),Palestine,False
+W078,Before 500 BC,701 BC,-701,Siege of Tyre,Siege of Tyre (701 BC),Lebanon,False
+W079,Before 500 BC,693 BC,-693,Battle of Diyala River,Battle of Diyala River,Iraq,False
+W080,Before 500 BC,691 BC,-691,Battle of Halule,Battle of Halule,Iraq,False
+W081,Before 500 BC,689 BC,-689,Siege of Babylon,Siege of Babylon,Iraq,False
+W082,Before 500 BC,685 BC,-685,Battle of Deres,Battle of Deres,Greece,False
+W083,Before 500 BC,684 BC,-684,Battle of Changshao,Battle of Changshao,China,False
+W084,Before 500 BC,682 BC,-682,Battle of the Great Foss,Battle of the Great Foss,Greece,False
+W085,Before 500 BC,680–677 BC,-680,Siege of Sidon,Siege of Sidon (680-677 BC),Lebanon,False
+W086,Before 500 BC,679 BC,-679,Battle of Ḫubišna,Battle of Ḫubišna,Turkey,False
+W087,Before 500 BC,c. 675 BC,-675,Siege of Anshan,Siege of Anshan,Iran,False
+W088,Before 500 BC,671 BC,-671,Siege of Tyre,Siege of Tyre (671 BC),Lebanon,False
+W089,Before 500 BC,669 BC,-669,Battle of Hysiae,Battle of Hysiae (669 BC),Greece,False
+W090,Before 500 BC,663 BC,-663,Siege of Tyre,Siege of Tyre (663 BC),Lebanon,False
+W091,Before 500 BC,663 BC,-663,Sack of Thebes,Sack of Thebes,Egypt,False
+W092,Before 500 BC,654 BC,-654,Sack of Sardis,Sack of Sardis,Turkey,False
+W093,Before 500 BC,653 BC,-653,Battle of Malitiosa Forest,Roman-Sabine wars,Italy,False
+W094,Before 500 BC,653 BC,-653,Battle of Ulai,Battle of Ulai,Iran,False
+W095,Before 500 BC,647 BC,-647,Battle of Susa,Battle of Susa,Iran,False
+W096,Before 500 BC,645 BC,-645,Battle of Loulin,Battle of Loulin,China,False
+W097,Before 500 BC,642 BC,-642,Battle of Yan,Battle of Yan,China,False
+W098,Before 500 BC,635 BC,-635,Fall of Ashdod,Fall of Ashdod,Israel,False
+W099,Before 500 BC,632 BC,-632,Battle of Chengpu,Battle of Chengpu,China,False
+W100,Before 500 BC,627 BC,-627,Battle of Xiao,Battle of Xiao,China,False
+W101,Before 500 BC,626 BC,-626,Revolt of Babylon,Revolt of Babylon (626 BC),Iraq,False
+W102,Before 500 BC,616 BC,-616,Battle of Qablin,Battle of Qablin,Iran,False
+W103,Before 500 BC,616 BC,-616,Battle of Arrapha,Battle of Arrapha,Iraq,False
+W104,Before 500 BC,615 BC,-615,Fall of Tarbiṣu,Fall of Tarbiṣu,Iraq,False
+W105,Before 500 BC,614 BC,-614,Fall of Assur,Fall of Assur,Iraq,False
+W106,Before 500 BC,612 BC,-612,Battle of Nineveh,Battle of Nineveh (612 BC),Iraq,False
+W107,Before 500 BC,609 BC,-609,Battle of Megiddo,Battle of Megiddo (609 BC),Israel,False
+W108,Before 500 BC,609 BC,-609,Fall of Harran,Fall of Harran,Turkey,False
+W109,Before 500 BC,609 BC,-609,Siege of Harran,Siege of Harran,Turkey,False
+W110,Before 500 BC,606 BC,-606,Siege of Kimuhu,Siege of Kimuhu,Syria,False
+W111,Before 500 BC,605 BC,-605,Battle of Quramati,Battle of Quramati,Syria,False
+W112,Before 500 BC,605 BC,-605,Battle of Carchemish,Battle of Carchemish,Turkey; Syria,False
+W113,Before 500 BC,605 BC,-605,Battle of Hamath,Battle of Hamath,Syria,False
+W114,Before 500 BC,604 BC,-604,Siege of Ashkelon,Siege of Ashkelon,Israel,False
+W115,Before 500 BC,597 BC,-597,Siege of Jerusalem,Siege of Jerusalem (597 BC),Palestine,False
+W116,Before 500 BC,595 BC,-595,Battle of Bi,Battle of Bi,China,False
+W117,Before 500 BC,c. 590 BC,-590,Siege of Van,Median invasion of Urartu,Turkey,False
+W118,Before 500 BC,590 BC,-590,Sack of Napata,Sack of Napata (590 BC),Sudan,False
+W119,Before 500 BC,588 BC,-588,Battle of An,Battle of An,China,False
+W120,Before 500 BC,587 BC,-587,Siege of Jerusalem,Siege of Jerusalem (587 BC),Palestine,False
+W121,Before 500 BC,586–573 BC,-586,Siege of Tyre,Siege of Tyre (586–573 BC),Lebanon,False
+W122,Before 500 BC,585 BC,-585,Battle of Halys (also known as the Battle of the Eclipse),Battle of Halys (585 BC),Turkey,False
+W123,Before 500 BC,585 BC,-585,Siege of Kirrha,Siege of Kirrha,Greece,False
+W124,Before 500 BC,575 BC,-575,Battle of Yanling,Battle of Yanling,China,False
+W125,Before 500 BC,570 BC,-570,Battle of the Well of Thestis,Battle of the Well of Thestis,Libya,False
+W126,Before 500 BC,552 BC,-552,Battle of Hyrba,Battle of Hyrba,Iran,False
+W127,Before 500 BC,551 BC,-551,Battle of the Persian Border,Battle of the Persian Border,Iran,False
+W128,Before 500 BC,550 BC,-550,Battle of the Fetters,Battle of the Fetters,Greece,False
+W129,Before 500 BC,550 BC,-550,Battle of Pasargadae,Medo-Persian conflict,Iran,False
+W130,Before 500 BC,547 BC,-547,Battle of Pteria,Battle of Pteria,Turkey,False
+W131,Before 500 BC,547 BC,-547,Battle of Thymbra,Battle of Thymbra,Turkey,False
+W132,Before 500 BC,547 BC,-547,Siege of Sardis,Siege of Sardis (547 BC),Turkey,False
+W133,Before 500 BC,546 BC,-546,Battle of Pallene,Battle of Pallene (546 BC),Greece,False
+W134,Before 500 BC,546 BC,-546,Battle of The 300 Champions,Battle of The 300 Champions,Greece,False
+W135,Before 500 BC,540 BC,-540,Battle of Alalia,Battle of Alalia,France,False
+W136,Before 500 BC,540 BC,-540,Siege of Xanthos,Siege of Xanthos (540BC),Turkey,False
+W137,Before 500 BC,539 BC,-539,Battle of Opis,Battle of Opis,Iraq,False
+W138,Before 500 BC,526 BC,-526,Siege of Gaza,Battle of Pelusium,Palestine,False
+W139,Before 500 BC,525 BC,-525,Battle of Pelusium,Battle of Pelusium,Egypt,False
+W140,Before 500 BC,525 BC,-525,Petubastis III Dakhla ambush,Lost Army of Cambyses,Egypt,False
+W141,Before 500 BC,513 BC,-513,Capture of Gelonos,Scythian campaign of Darius I,Ukraine; Russia,True
+W142,Before 500 BC,509 BC,-509,Battle of Silva Arsia,Battle of Silva Arsia,Italy,False
+W143,Before 500 BC,508 BC,-508,Siege of Rome,Siege of Rome (508 BC),Italy,False
+W144,Before 500 BC,506 BC,-506,Battle of Boju,Battle of Boju,China,False
+W145,5th century BC,499 BC,-499,Siege of Naxos,Siege of Naxos (499 BC),Greece,False
+W146,5th century BC,498 BC,-498,Siege of Sardis,Ionian Revolt,Turkey,False
+W147,5th century BC,498 BC,-498,Battle of Ephesos,Battle of Ephesus (498 BC),Turkey,False
+W148,5th century BC,498 BC,-498,Siege of Amathus,Siege of Amathus,Cyprus,False
+W149,5th century BC,496 BC,-496,Battle of Lake Regillus,Battle of Lake Regillus,Italy,False
+W150,5th century BC,494 BC,-494,Battle of Lade,Battle of Lade,Turkey,False
+W151,5th century BC,494 BC,-494,Battle of Sepeia,Battle of Sepeia,Greece,False
+W152,5th century BC,493 BC,-493,Battle of Corioli,Corioli,Italy,False
+W153,5th century BC,490 BC,-490,Siege of Naxos,First Persian invasion of Greece,Greece,False
+W154,5th century BC,490 BC,-490,Siege of Eretria,Siege of Eretria,Greece,False
+W155,5th century BC,490 BC,-490,Battle of Marathon,Battle of Marathon,Greece,False
+W156,5th century BC,490 BC,-490,Siege of Kāśī,Siege of Kāśī,India,False
+W157,5th century BC,480 BC,-480,Battle of Thermopylae,Battle of Thermopylae,Greece,False
+W158,5th century BC,480 BC,-480,Battle of Artemisium,Battle of Artemisium,Greece,False
+W159,5th century BC,480 BC,-480,Battle of Salamis,Battle of Salamis,Greece,False
+W160,5th century BC,480 BC,-480,Battle of Himera,Battle of Himera (480 BC),Italy,False
+W161,5th century BC,479 BC,-479,Battle of Plataea,Battle of Plataea,Greece,False
+W162,5th century BC,479 BC,-479,Battle of Mycale,Battle of Mycale,Turkey,False
+W163,5th century BC,479 BC,-479,Siege of Sestos,Siege of Sestos,Turkey,False
+W164,5th century BC,478 BC,-478,Siege of Byzantium,Siege of Byzantium (478 BC),Turkey,False
+W165,5th century BC,478 BC,-478,Battle of Lize,Battle of Lize,China,False
+W166,5th century BC,477 BC,-477,Battle of the Cremera,Battle of the Cremera,Italy,False
+W167,5th century BC,475 BC,-475,Siege of Eion,Wars of the Delian League,Greece,False
+W168,5th century BC,474 BC,-474,Battle of Cumae,Battle of Cumae (474 BC),Italy,False
+W169,5th century BC,473 BC,-473,Battle of Kailia,Iapygian-Tarentine Wars,Italy,False
+W170,5th century BC,466 BC,-466,Battle of the Eurymedon,Battle of the Eurymedon,Turkey,False
+W171,5th century BC,460 BC,-460,Battle of Hyria,Battle of Hyria,Italy,False
+W172,5th century BC,459 BC,-459,Battle of Papremis,Battle of Papremis,Egypt,False
+W173,5th century BC,458 BC,-458,Battle of Mount Algidus,Battle of Mount Algidus,Italy,False
+W174,5th century BC,458 BC,-458,Battle of Aegina,Battle of Aegina,Greece,False
+W175,5th century BC,457 BC,-457,Battle of Tanagra,Battle of Tanagra (457 BC),Greece,False
+W176,5th century BC,457 BC,-457,Battle of Oenophyta,Battle of Oenophyta,Greece,False
+W177,5th century BC,454 BC,-454,Siege of Prosoptis,Siege of Prosoptis,Egypt,False
+W178,5th century BC,454 BC,-454,Battle of Mendesium,Wars of the Delian League,Egypt,False
+W179,5th century BC,453 BC,-453,Battle of Jinyang,Battle of Jinyang,China,False
+W180,5th century BC,450 BC,-450,Siege of Citium,Siege of Citium,Cyprus,False
+W181,5th century BC,450 BC,-450,Battle of Salamis,Battle of Salamis (in Cyprus),Cyprus,False
+W182,5th century BC,450 BC,-450,Battle of Nomae,Battle of Nomae,Italy,False
+W183,5th century BC,447 BC,-447,Battle of Coronea,Battle of Coronea (447 BC),Greece,False
+W184,5th century BC,446 BC,-446,Battle of Corbio,Battle of Corbio,Italy,False
+W185,5th century BC,446 BC,-446,Battle of the Himera,Battle of the Himera River (446 BC),Italy,False
+W186,5th century BC,435 BC,-435,Capture of Fidenae,Capture of Fidenae (435 BC),Italy,False
+W187,5th century BC,435 BC,-435,Battle of Leukimme,Battle of Leucimme,Greece,False
+W188,5th century BC,435 BC,-435,Siege of Epidamnos,Siege of Epidamnos (435 BC),Albania,False
+W189,5th century BC,433 BC,-433,Battle of Sybota,Battle of Sybota,Greece,False
+W190,5th century BC,432 BC,-432,Battle of Potidaea,Battle of Potidaea,Greece,False
+W191,5th century BC,429 BC,-429,Battle of Spartolos,Battle of Spartolos,Greece,False
+W192,5th century BC,429 BC,-429,Battle of Rhium,Battle of Rhium,Greece,False
+W193,5th century BC,429 BC,-429,Battle of Naupactos,Battle of Naupactus (429 BC),Greece,False
+W194,5th century BC,427 BC,-427,Mytilenean revolt,Mytilenean revolt,Greece,False
+W195,5th century BC,427 BC,-427,Siege of Plataea,Siege of Plataea,Greece,False
+W196,5th century BC,426 BC,-426,Battle of Tanagra,Battle of Tanagra (426 BC),Greece,False
+W197,5th century BC,426 BC,-426,Battle of Olpae,Battle of Olpae,Greece,False
+W198,5th century BC,426 BC,-426,Battle of Idomene,Battle of Idomene,Greece,False
+W199,5th century BC,425 BC,-425,Battle of Pylos,Battle of Pylos,Greece,False
+W200,5th century BC,425 BC,-425,Battle of Sphacteria,Battle of Sphacteria,Greece,False
+W201,5th century BC,424 BC,-424,Battle of Megara,Battle of Megara,Greece,False
+W202,5th century BC,424 BC,-424,Battle of Delion,Battle of Delium,Greece,False
+W203,5th century BC,423 BC,-423,Battle of Lyncestis,Battle of Lyncestis,Greece; North Macedonia,True
+W204,5th century BC,422 BC,-422,Battle of Amphipolis,Battle of Amphipolis,Greece,False
+W205,5th century BC,418 BC,-418,Battle of Mantinea,Battle of Mantinea (418 BC),Greece,False
+W206,5th century BC,417 BC,-417,Battle of Hysiae,Battle of Hysiae (417 BC),Greece,False
+W207,5th century BC,417 BC,-417,Battle of Orneae,Battle of Orneae,Greece,False
+W208,5th century BC,415 BC,-415,Battle of Melos,Battle of Melos,Greece,False
+W209,5th century BC,413 BC,-413,Sicilian Expedition,Sicilian Expedition,Italy,False
+W210,5th century BC,411 BC,-411,Battle of Eretria,Battle of Eretria,Greece,False
+W211,5th century BC,411 BC,-411,Battle of Syme,Battle of Syme,Greece,False
+W212,5th century BC,411 BC,-411,Battle of Abydos,Battle of Abydos,Turkey,False
+W213,5th century BC,411 BC,-411,Battle of Cynossema,Battle of Cynossema,Turkey,False
+W214,5th century BC,410 BC,-410,Battle of Cyzicus,Battle of Cyzicus,Turkey,False
+W215,5th century BC,409 BC,-409,Battle of Selinus,Battle of Selinus,Italy,False
+W216,5th century BC,409 BC,-409,Battle of Himera,Battle of Himera (409 BC),Italy,False
+W217,5th century BC,406 BC,-406,Battle of Notion,Battle of Notium,Turkey,False
+W218,5th century BC,406 BC,-406,Battle of Mytilene,Battle of Mytilene (406 BC),Greece,False
+W219,5th century BC,406 BC,-406,Battle of Arginusae,Battle of Arginusae,Turkey,False
+W220,5th century BC,406 BC,-406,Siege of Akragas,Siege of Akragas (406 BC),Italy,False
+W221,5th century BC,405 BC,-405,Battle of Gela,Battle of Gela (405 BC),Italy,False
+W222,5th century BC,405 BC,-405,Battle of Aegospotami,Battle of Aegospotami,Turkey,False
+W223,5th century BC,405 BC,-405,Sack of Camarina,Sack of Camarina (405 BC),Italy,False
+W224,5th century BC,404 or 403 BC,-404,Battle of Phyle,Battle of Phyle,Greece,False
+W225,5th century BC,404 or 403 BC,-404,Battle of Munychia,Battle of Munychia,Greece,False
+W226,5th century BC,403 BC,-403,Battle of Piraeus,Battle of Piraeus,Greece,False
+W227,5th century BC,402 BC,-402,Battle of Altis,Elean War,Greece,False
+W228,4th century BC,398 BC,-398,Siege of Motya,Siege of Motya,Italy,False
+W229,4th century BC,397 BC,-397,Battle of Messene,Battle of Messene,Italy,False
+W230,4th century BC,397 BC,-397,Battle of Catana,Battle of Catana (397 BC),Italy,False
+W231,4th century BC,397 BC,-397,Siege of Syracuse,Siege of Syracuse (397 BC),Italy,False
+W232,4th century BC,396 BC,-396,Battle of Veii,Battle of Veii,Italy,False
+W233,4th century BC,395 BC,-395,Battle of Haliartus,Battle of Haliartus,Greece,False
+W234,4th century BC,395 BC,-395,Battle of Sardis,Battle of Sardis (395 BC),Turkey,False
+W235,4th century BC,394 BC,-394,Battle of Nemea,Battle of Nemea (394 BC),Greece,False
+W236,4th century BC,394 BC,-394,Battle of Cnidus,Battle of Cnidus,Turkey,False
+W237,4th century BC,394 BC,-394,Battle of Coronea,Battle of Coronea (394 BC),Greece,False
+W238,4th century BC,394 BC,-394,Siege of Tauromenium,Siege of Tauromenium (394 BC),Italy,False
+W239,4th century BC,393 BC,-393,Battle of Abacaenum,Battle of Abacaenum,Italy,False
+W240,4th century BC,392 BC,-392,Battle of Chrysas,Battle of Chrysas,Italy,False
+W241,4th century BC,391 BC,-391,Battle of Lechaeum,Battle of Lechaeum,Greece,False
+W242,4th century BC,390 BC,-390,Battle of the Allia,Battle of the Allia,Italy,False
+W243,4th century BC,389 BC,-389,Battle of the Elleporus,Battle of the Elleporus,Italy,False
+W244,4th century BC,389 BC,-389,Siege of Theodosia,Siege of Theodosia (389 BC),Ukraine,False
+W245,4th century BC,386 BC,-386,Siege of Rhegium,Siege of Rhegium,Italy,False
+W246,4th century BC,385 BC,-385,Siege of Mantinea,Siege of Mantinea,Greece,False
+W247,4th century BC,384 BC,-384,Battle of Pharos,Battle of Pharos,Croatia,False
+W248,4th century BC,380 BC,-380,Battle of Labrytai,Battle of Labrytai,Russia,False
+W249,4th century BC,377 BC,-377,Battle of Cabala,Battle of Cabala,Italy,False
+W250,4th century BC,376 BC,-376,Battle of Cronium,Battle of Cronium,Italy,False
+W251,4th century BC,376 BC,-376,Battle of Naxos,Battle of Naxos,Greece,False
+W252,4th century BC,375 BC,-375,Battle of Tegyra,Battle of Tegyra,Greece,False
+W253,4th century BC,374 BC,-374,Battle of Alyzia,Battle of Alyzia,Greece,False
+W254,4th century BC,373 BC,-373,Battle of Pelusium (373 BC),Battle of Pelusium (373 BC),Egypt,False
+W255,4th century BC,371 BC,-371,Battle of Leuctra,Battle of Leuctra,Greece,False
+W256,4th century BC,365 BC,-365,Siege of Theodosia,Siege of Theodosia (c. 365 BC),Ukraine,False
+W257,4th century BC,364 BC,-364,Battle of Cynoscephalae,Battle of Cynoscephalae (364 BC),Greece,False
+W258,4th century BC,362 BC,-362,Battle of Mantinea,Battle of Mantinea (362 BC),Greece,False
+W259,4th century BC,361 BC,-361,Battle of the Anio,Battle of the Anio River (361 BC),Italy,False
+W260,4th century BC,360 BC,-360,Siege of Theodosia,Siege of Theodosia (c. 360 BC),Ukraine,False
+W261,4th century BC,359 BC,-359,Battle of Methone,Expansion of Macedonia under Philip II,Greece,False
+W262,4th century BC,358 BC,-358,Battle of Pedum,Battle of Pedum (358 BC),Italy,False
+W263,4th century BC,358 BC,-358,Battle of Erigon Valley,Battle of Erigon Valley,North Macedonia,False
+W264,4th century BC,356 BC,-356,Battle of Embata,Battle of Embata,Greece,False
+W265,4th century BC,353 BC,-353,Battle of Crocus Field,Battle of Crocus Field,Greece,False
+W266,4th century BC,353 BC,-353,Battle of Guiling,Battle of Guiling,China,False
+W267,4th century BC,343 BC,-343,Battle of Mount Gaurus,Battle of Mount Gaurus,Italy,False
+W268,4th century BC,343 BC,-343,Battle of Suessula,Battle of Suessula,Italy,False
+W269,4th century BC,343 BC,-343,Siege of Syracuse,Siege of Syracuse (343 BC),Italy,False
+W270,4th century BC,342 BC,-342,Battle of Maling,Battle of Maling,China,False
+W271,4th century BC,340 BC,-340,Siege of Byzantium,Siege of Byzantium,Turkey,False
+W272,4th century BC,339 BC,-339,Battle of Vesuvius,Battle of Vesuvius,Italy,False
+W273,4th century BC,339 BC,-339,Battle of the Crimissus,Battle of the Crimissus,Italy,False
+W274,4th century BC,339 BC,-339,Battle of Dobruja,Battle of Dobruja (339 BC),Romania,False
+W275,4th century BC,338 BC,-338,Battle of Chaeronea,Battle of Chaeronea (338 BC),Greece,False
+W276,4th century BC,338 BC,-338,Battle of Trifanum,Battle of Trifanum,Italy,False
+W277,4th century BC,338 BC,-338,Battle of Manduria,Battle of Manduria,Italy,False
+W278,4th century BC,335 BC,-335,Battle of Mount Haimos,Battle of Mount Haemus,Bulgaria,False
+W279,4th century BC,335 BC,-335,Siege of Pelion,Siege of Pelium,Albania; Greece; North Macedonia,True
+W280,4th century BC,335 BC,-335,Battle of Thebes,Battle of Thebes,Greece,False
+W281,4th century BC,334 BC,-334,Battle of the Granikos,Battle of the Granicus,Turkey,False
+W282,4th century BC,334 BC,-334,Siege of Miletos,Siege of Miletus,Turkey,False
+W283,4th century BC,334 BC,-334,Siege of Halikarnassos,Siege of Halicarnassus,Turkey,False
+W284,4th century BC,333 BC,-333,Siege of Gordion,Siege of Gordium,Turkey,False
+W285,4th century BC,333 BC,-333,Battle of Issos,Battle of Issus,Turkey,False
+W286,4th century BC,332 BC,-332,Siege of Tyros,Siege of Tyre (332 BC),Lebanon,False
+W287,4th century BC,332 BC,-332,Siege of Gaza,Siege of Gaza (332 BCE),Palestine,False
+W288,4th century BC,331 BC,-331,Battle of Pandosia,Battle of Pandosia,Italy,False
+W289,4th century BC,331 BC,-331,Battle of Megalopolis,Battle of Megalopolis,Greece,False
+W290,4th century BC,331 BC,-331,Siege of Olbia,Siege of Olbia (331 BC),Ukraine,False
+W291,4th century BC,331 BC,-331,Battle of Gaugamela,Battle of Gaugamela,Iraq,False
+W292,4th century BC,331 BC,-331,Battle of the Uxian Defile,Battle of the Uxian Defile,Iran,False
+W293,4th century BC,330 BC,-330,Battle of the Persian Gate,Battle of the Persian Gate,Iran,False
+W294,4th century BC,329 BC,-329,Battle of the Polytimetos,Battle of the Polytimetus,,False
+W295,4th century BC,329 BC,-329,Siege of Kyropolis,Siege of Cyropolis,Tajikistan,False
+W296,4th century BC,329 BC,-329,Battle of the Jaxartes,Battle of Jaxartes,Uzbekistan; Tajikistan; Kyrgyzstan; Kazakhstan,True
+W297,4th century BC,328 BC,-328,Battle of Gabai,Battle of Gabai,Uzbekistan,False
+W298,4th century BC,327 BC,-327,Capture of Neapolis,Capture of Neapolis,Italy,False
+W299,4th century BC,327 BC,-327,Siege of the Sogdian Rock,Siege of the Sogdian Rock,Tajikistan,False
+W300,4th century BC,327 BC,-327,Siege of Aornos,Siege of Aornos,Pakistan,False
+W301,4th century BC,326 BC,-326,Battle of the Hydaspes,Battle of the Hydaspes,Pakistan,False
+W302,4th century BC,325 BC,-325,Battle of Imbrinium,Battle of Imbrinium,Italy,False
+W303,4th century BC,323 BC,-323,Battle of Plataea,Battle of Plataea (323 BC),Greece,False
+W304,4th century BC,323 BC,-323,Battle of Thermopylae,Battle of Thermopylae (323 BC),Greece,False
+W305,4th century BC,322 BC,-322,Siege of Lamia,Siege of Lamia,Greece,False
+W306,4th century BC,322 BC,-322,Battle of Amorgos,Battle of Amorgos,Greece,False
+W307,4th century BC,322 BC,-322,Battle of Echinades,Battle of the Echinades (322 BC),Greece,False
+W308,4th century BC,322 BC,-322,Battle of Melitea,Battle of Melitaea,Greece,False
+W309,4th century BC,322 BC,-322,Battle of Krannon,Battle of Crannon,Greece,False
+W310,4th century BC,322 BC,-322,Battle of Pataliputra,Battle of Pataliputra,India,False
+W311,4th century BC,321 BC,-321,Battle of the Caudine Forks,Battle of the Caudine Forks,Italy,False
+W312,4th century BC,321 BC,-321,Battle of the Hellespont,Battle of the Hellespont (321 BC),Turkey,False
+W313,4th century BC,321 BC,-321,Battle of the Camel's rampart,Battle of the Camel's rampart,Egypt,False
+W314,4th century BC,319 BC,-319,Battle of Orkynia,Battle of Orkynia,Turkey,False
+W315,4th century BC,319 BC,-319,Battle of Kretopolis,Battle of Cretopolis,Turkey,False
+W316,4th century BC,318 BC,-318,Siege of Nora,Siege of Nora,Turkey,False
+W317,4th century BC,317 BC,-317,Siege of Megalopolis,Siege of Megalopolis,Greece,False
+W318,4th century BC,317 BC,-317,Battle of Byzantion,Battle of Byzantium,Greece,False
+W319,4th century BC,317 BC,-317,Battle of Euia,Battle of Euia,Albania,False
+W320,4th century BC,317 BC,-317,Battle of the Kopratas,Battle of the Kopratas,Iran,False
+W321,4th century BC,317 BC,-317,Battle of Paraitakene,Battle of Paraitakene,Iran,False
+W322,4th century BC,316 BC,-316,Siege of Pydna,Battle of Pydna (Diadochi),Greece,False
+W323,4th century BC,315 BC,-315,Battle of Lautulae,Battle of Lautulae,Italy,False
+W324,4th century BC,315 BC,-315,Battle of Gabiene,Battle of Gabiene,Iran,False
+W325,4th century BC,314 BC,-314,Siege of Tyros,Siege of Tyre (315–314 BC),Lebanon,False
+W326,4th century BC,313 BC,-313,Battle of Oineiadai,Battle of Oineiadai,Greece,False
+W327,4th century BC,312 BC,-312,Battle of Gaza,Battle of Gaza (312 BC),Palestine,False
+W328,4th century BC,311 BC,-311,Battle of Myus,Battle of Myus,Syria,False
+W329,4th century BC,311 BC,-311,Battle of Himera,Battle of the Himera River (311 BC),Italy,False
+W330,4th century BC,311 BC,-311,Siege of Babylon,First siege of Babylon,Iraq,False
+W331,4th century BC,311 BC,-311,Battle of the Tigris,Battle of the Tigris,Iraq,False
+W332,4th century BC,310 BC,-310,Battle of Lake Vadimo,Battle of Lake Vadimo (310 BC),Italy,False
+W333,4th century BC,310 BC,-310,Siege of Babylon,Second Siege of Babylon (310 BC),Iraq,False
+W334,4th century BC,310 BC,-310,Battle of the Thatis,Battle of the River Thatis,Russia,False
+W335,4th century BC,310 BC,-310,Battle of White Tunis,Battle of White Tunis,Tunisia,False
+W336,4th century BC,310 BC,-310,Siege of Syracuse,Siege of Syracuse (311–309 BC),Italy,False
+W337,4th century BC,309 BC,-309,Siege of Babylon,Third Siege of Babylon (309 BC),Iraq,False
+W338,4th century BC,309 BC,-309,Battle of the 25 of Abu,Battle of the 25 of Abu,Iraq; Iran,True
+W339,4th century BC,309 BC,-309,Siege of Siracena,Siege of Siracena,Russia,False
+W340,4th century BC,309 BC,-309,Battle of Lake Maeotis,Battle of Lake Maeotis,Ukraine,False
+W341,4th century BC,306 BC,-306,Battle of Salamis,Battle of Salamis in Cyprus (306 BC),Cyprus,False
+W342,4th century BC,305 BC,-305,Battle of Bovianum,Battle of Bovianum,Italy,False
+W343,4th century BC,305-304 BC,-305,Siege of Rhodes,Siege of Rhodes (305 BC),Greece,False
+W344,3rd century BC,298 BC,-298,Battle of Camerinum,Battle of Camerinum,Italy,False
+W345,3rd century BC,297 BC,-297,Battle of Tifernum,Battle of Tifernum,Italy,False
+W346,3rd century BC,295 BC,-295,Battle of Sentinum,Battle of Sentinum,Italy,False
+W347,3rd century BC,293 BC,-293,Battle of Aquilonia,Battle of Aquilonia,Italy,False
+W348,3rd century BC,293 BC,-293,Battle of Yique,Battle of Yique,China,False
+W349,3rd century BC,291 BC,-291,Siege of Thebes,Siege of Thebes (292–291 BC),Greece,False
+W350,3rd century BC,287 BC,-287,Siege of Athens,Siege of Athens (287 BC),Greece,False
+W351,3rd century BC,284 BC,-284,Battle of Arretium,Battle of Arretium,Italy,False
+W352,3rd century BC,283 BC,-283,Battle of Lake Vadimo,Battle of Lake Vadimo (283 BC),Italy,False
+W353,3rd century BC,282 BC,-282,Battle of Populonia,Battle of Populonia,Italy,False
+W354,3rd century BC,281 BC,-281,Battle of Kurupedion,Battle of Corupedium,Turkey,False
+W355,3rd century BC,280 BC,-280,Battle of Heraclea,Battle of Heraclea,Italy,False
+W356,3rd century BC,279 BC,-279,Battle of Asculum,Battle of Asculum,Italy,False
+W357,3rd century BC,279 BC,-279,Battle of Thermopylae,Battle of Thermopylae (279 BC),Greece,False
+W358,3rd century BC,279 BC,-279,Attack on Delphi,Brennus (3rd century BC),Greece,False
+W359,3rd century BC,278 BC,-278,Siege of Syracuse,Siege of Syracuse (278 BC),Italy,False
+W360,3rd century BC,278 BC,-278,Siege of Lilybaeum,Siege of Lilybaeum (278 BC),Italy,False
+W361,3rd century BC,277 BC,-277,Battle of Lysimachia,Battle of Lysimachia,Turkey,False
+W362,3rd century BC,277 BC,-277,Battle of the Cranita hills,Battle of the Cranita hills,Italy,False
+W363,3rd century BC,276 BC,-276,Battle of the Strait of Messina,Battle of the Strait of Messina,Italy,False
+W364,3rd century BC,275 BC,-275,Battle of Beneventum,Battle of Beneventum (275 BC),Italy,False
+W365,3rd century BC,275 BC,-275,Battle of the Elephants,Battle of the Elephants,Turkey,False
+W366,3rd century BC,274 BC,-274,Battle of the Aous,Battle of the Aous (274 BC),Albania; Greece,True
+W367,3rd century BC,272 BC,-272,Siege of Sparta,Siege of Sparta,Greece,False
+W368,3rd century BC,272 BC,-272,Battle of Argos,Battle of Argos,Greece,False
+W369,3rd century BC,272 BC,-272,Siege of Taras,Siege of Taras (272 BC),Italy,False
+W370,3rd century BC,264 BC,-264,Battle of Messana,Battle of Messana,Italy,False
+W371,3rd century BC,262 BC,-262,Battle of Agrigentum,Battle of Agrigentum,Italy,False
+W372,3rd century BC,261 BC,-261,Battle of Cos,Battle of Cos,Italy,False
+W373,3rd century BC,261 BC,-261,Battle of Kalinga,Kalinga War,India,False
+W374,3rd century BC,260 BC,-260,Battle of Changping,Battle of Changping,China,False
+W375,3rd century BC,260 BC,-260,Battle of Lipara Islands,Battle of the Lipara Islands,Italy,False
+W376,3rd century BC,260 BC,-260,Battle of Mylae,Battle of Mylae,Italy,False
+W377,3rd century BC,259 BC,-259,Battle of Thermae,Battle of Thermae,Italy,False
+W378,3rd century BC,258 BC,-258,Battle of Ephesus,Battle of Ephesus (ca. 258 BC),Turkey,False
+W379,3rd century BC,258 BC,-258,Battle of Sulci,Battle of Sulci,Italy,False
+W380,3rd century BC,257 BC,-257,Battle of Tyndaris,Battle of Tyndaris,Italy,False
+W381,3rd century BC,257 BC,-257,Battle of Handan,Battle of Handan,China,False
+W382,3rd century BC,256 BC,-256,Battle of Cape Ecnomus,Battle of Cape Ecnomus,Italy,False
+W383,3rd century BC,255 BC,-255,Siege of Aspis,Siege of Aspis,Tunisia,False
+W384,3rd century BC,255 BC,-255,Battle of Adys,Battle of Adys,Tunisia,False
+W385,3rd century BC,255 BC,-255,Battle of Tunis,Battle of Tunis,Tunisia,False
+W386,3rd century BC,255 BC,-255,Battle of Cape Hermaeum,Battle of Cape Hermaeum,Tunisia,False
+W387,3rd century BC,251 BC,-251,Battle of Panormus,Battle of Panormus,Italy,False
+W388,3rd century BC,250 BC,-250,Siege of Lilybaeum,Siege of Lilybaeum (250–241 BC),Italy,False
+W389,3rd century BC,250 BC,-250,Battle of Panormus,Battle of Panormus,Italy,False
+W390,3rd century BC,249 BC,-249,Battle of Drepana,Battle of Drepana,Italy,False
+W391,3rd century BC,249 BC,-249,Battle of Phintias,Battle of Phintias,Italy,False
+W392,3rd century BC,248 BC,-248,Siege of Drepana,Siege of Drepana,Italy,False
+W393,3rd century BC,246 BC,-246,Battle of Andros,Battle of Andros (246 BC),Greece,False
+W394,3rd century BC,241 BC,-241,Battle of the Aegates Islands,Battle of the Aegates Islands,Italy,False
+W395,3rd century BC,241 BC,-241,Battle of the Caecus River,Battle of the Caecus River,Turkey,False
+W396,3rd century BC,240 BC,-240,Battle of Utica,Battle of Utica,Tunisia,False
+W397,3rd century BC,240 BC,-240,Battle of the Bagradas River,Battle of the Bagradas River (240 BC),Tunisia,False
+W398,3rd century BC,240 BC,-240,Hamilcar's victory with Naravas,Hamilcar's victory with Naravas,Tunisia,False
+W399,3rd century BC,240 BC,-240,Hamilcar's defeat of Spendius and Autaritus,Hamilcar's defeat of Spendius and Autaritus,Tunisia,False
+W400,3rd century BC,239 BC,-239,Battle of Ancyra,Battle of Ancyra,Turkey,False
+W401,3rd century BC,239 BC,-239,Tunliu rebellion,Chengjiao (prince),China,False
+W402,3rd century BC,238 BC,-238,"Battle of ""The Saw""","Battle of ""The Saw""",Tunisia,False
+W403,3rd century BC,238 BC,-238,Battle of Aphrodisium,Battle of Aphrodisium,Turkey,False
+W404,3rd century BC,238 BC,-238,Battle of Leptis Parva,Battle of Leptis Parva,Tunisia,False
+W405,3rd century BC,233 BC,-233,Battle of Fei,Battle of Fei (233 BCE),China,False
+W406,3rd century BC,231 BC,-231,Siege of Medion,Siege of Medion,Greece,False
+W407,3rd century BC,230 BC,-230,Battle of Phoenice,Battle of Phoenice,Albania,False
+W408,3rd century BC,229 BC,-229,Battle of Paxos,Battle of Paxos,Greece,False
+W409,3rd century BC,229 BC,-229,Battle of the Harpasus,Battle of the Harpasus,Turkey,False
+W410,3rd century BC,229 BC,-229,Battle of Epidamnus,Battle of Epidamnus,Albania,False
+W411,3rd century BC,229 BC,-229,Siege of Issa,Siege of Issa,Croatia,False
+W412,3rd century BC,227 BC,-227,Battle of Mount Lycaeum,Battle of Mount Lycaeum,Greece,False
+W413,3rd century BC,226 BC,-226,Battle of Dyme,Battle of Dyme,Greece,False
+W414,3rd century BC,225 BC,-225,Battle of Faesulae,Battle of Faesulae,Italy,False
+W415,3rd century BC,225 BC,-225,Battle of Telamon,Battle of Telamon,Italy,False
+W416,3rd century BC,222 BC,-222,Battle of Clastidium,Battle of Clastidium,Italy,False
+W417,3rd century BC,222 BC,-222,Battle of Sellasia,Battle of Sellasia,Greece,False
+W418,3rd century BC,222 BC,-222,Battle of Dai,Battle of Dai,China,False
+W419,3rd century BC,219 BC,-219,Siege of Dimallum,Illyro-Roman Wars,Albania,False
+W420,3rd century BC,219 BC,-219,Siege of Saguntum,Siege of Saguntum,Spain,False
+W421,3rd century BC,218 BC,-218,Battle of Lilybaeum,Battle of Lilybaeum,Italy,False
+W422,3rd century BC,218 BC,-218,Capture of Malta,Capture of Malta (218 BC),Malta,False
+W423,3rd century BC,218 BC,-218,Battle of Rhone Crossing,Battle of Rhone Crossing,France,False
+W424,3rd century BC,218 BC,-218,Battle of the Ticinus,Battle of the Ticinus,Italy,False
+W425,3rd century BC,218 BC,-218,Battle of the Trebia,Battle of the Trebia,Italy,False
+W426,3rd century BC,218 BC,-218,Battle of Cissa,Battle of Cissa,Spain,False
+W427,3rd century BC,217 BC,-217,Battle of Raphia,Battle of Raphia,Palestine,False
+W428,3rd century BC,217 BC,-217,Battle of Lake Trasimene,Battle of Lake Trasimene,Italy,False
+W429,3rd century BC,217 BC,-217,Battle of Ebro River,Battle of Ebro River,Spain,False
+W430,3rd century BC,217 BC,-217,Battle of Ager Falernus,Battle of Ager Falernus,Italy,False
+W431,3rd century BC,217 BC,-217,Battle of Geronium,Battle of Geronium,Italy,False
+W432,3rd century BC,217 BC,-217,Battle of Leontion,Battle of Leontion,Greece,False
+W433,3rd century BC,216 BC,-216,Battle of Cannae,Battle of Cannae,Italy,False
+W434,3rd century BC,216 BC,-216,Battle of Silva Litana,Battle of Silva Litana,Italy,False
+W435,3rd century BC,216 BC,-216,First Battle of Nola,First Battle of Nola,Italy,False
+W436,3rd century BC,215 BC,-215,Battle of Ibera,Battle of Ibera,Spain,False
+W437,3rd century BC,215 BC,-215,Second Battle of Nola,Second Battle of Nola,Italy,False
+W438,3rd century BC,215 BC,-215,Battle of Decimomannu,Battle of Decimomannu,Italy,False
+W439,3rd century BC,214 BC,-214,Third Battle of Nola,Third Battle of Nola,Italy,False
+W440,3rd century BC,214 BC,-214,Battle of Beneventum,Battle of Beneventum (214 BC),Italy,False
+W441,3rd century BC,214 BC,-214,Siege of Syracuse,Siege of Syracuse (214–212 BC),Italy,False
+W442,3rd century BC,212 BC,-212,Battle of Tarentum,Battle of Tarentum (212 BC),Italy,False
+W443,3rd century BC,212 BC,-212,First Battle of Capua,Battle of Capua (212 BC),Italy,False
+W444,3rd century BC,212 BC,-212,Battle of Beneventum,Battle of Beneventum (212 BC),Italy,False
+W445,3rd century BC,212 BC,-212,Battle of the Silarus,Battle of the Silarus,Italy,False
+W446,3rd century BC,212 BC,-212,Battle of Herdonia,Battle of Herdonia,Italy,False
+W447,3rd century BC,211 BC,-211,Battle of the Upper Baetis,Battle of the Upper Baetis,Spain,False
+W448,3rd century BC,211 BC,-211,Second Battle of Capua,Second Battle of Capua,Italy,False
+W449,3rd century BC,211 BC,-211,Siege of Sardis (211 BC),Siege of Sardis (211 BC),Turkey,False
+W450,3rd century BC,210 BC,-210,Second Battle of Herdonia,Second Battle of Herdonia,Italy,False
+W451,3rd century BC,210 BC,-210,Battle of Numistro,Battle of Numistro,Italy,False
+W452,3rd century BC,209 BC,-209,First Battle of Lamia,First Battle of Lamia,Greece,False
+W453,3rd century BC,209 BC,-209,Second Battle of Lamia,Second Battle of Lamia,Greece,False
+W454,3rd century BC,209 BC,-209,Battle of Asculum,Battle of Canusium,Italy,False
+W455,3rd century BC,209 BC,-209,Battle of Tarentum,Battle of Tarentum (209 BC),Italy,False
+W456,3rd century BC,209 BC,-209,Battle of Mount Labus,Battle of Mount Labus,Iran,False
+W457,3rd century BC,208 BC,-208,Battle of Baecula,Battle of Baecula,Spain,False
+W458,3rd century BC,208 BC,-208,Siege of Bactra,Siege of Bactra,Afghanistan,False
+W459,3rd century BC,208 BC,-208,Battle of the Arius,Battle of the Arius,Afghanistan,False
+W460,3rd century BC,207 BC,-207,Battle of Grumentum,Battle of Grumentum,Italy,False
+W461,3rd century BC,207 BC,-207,Battle of Julu,Battle of Julu,China,False
+W462,3rd century BC,207 BC,-207,Battle of the Metaurus,Battle of the Metaurus,Italy,False
+W463,3rd century BC,207 BC,-207,Battle of Cartagena,Battle of Cartagena (207 BC),Spain,False
+W464,3rd century BC,207 BC,-207,Battle of Mantinea,Battle of Mantinea (207 BC),Greece,False
+W465,3rd century BC,206 BC,-206,Battle of Ilipa,Battle of Ilipa,Spain,False
+W466,3rd century BC,205 BC,-205,Battle of Pengcheng,Battle of Pengcheng,China,False
+W467,3rd century BC,205 BC,-205,Battle of Anyi,Battle of Anyi,China,False
+W468,3rd century BC,205 BC,-205,Battle of Jingxing,Battle of Jingxing,China,False
+W469,3rd century BC,204 BC,-204,Battle of Crotona,Battle of Crotona,Italy,False
+W470,3rd century BC,204 BC,-204,Battle of Utica,Battle of Utica (204 BC),Tunisia,False
+W471,3rd century BC,204 BC,-204,Battle of Wei River,Battle of Wei River,China,False
+W472,3rd century BC,203 BC,-203,Battle of Utica,Battle of Utica (203 BC),Tunisia,False
+W473,3rd century BC,203 BC,-203,Battle of the Great Plains,Battle of the Great Plains,Tunisia,False
+W474,3rd century BC,203 BC,-203,Battle of Cirta,Battle of Cirta,Algeria,False
+W475,3rd century BC,203 BC,-203,Po Valley Raid,Po Valley Raid,Italy,False
+W476,3rd century BC,203 BC,-203,Battle of Gaixia,Battle of Gaixia,China,False
+W477,3rd century BC,202 BC,-202,Battle of Zama,Battle of Zama,Tunisia,False
+W478,3rd century BC,201 BC,-201,Battle of Chios,Battle of Chios (201 BC),Greece,False
+W479,3rd century BC,201 BC,-201,Battle of Lade,Battle of Lade (201 BC),Turkey,False
+W480,3rd century BC,200 BC,-200,Battle of Cremona,Battle of Cremona (200 BC),Italy,False
+W481,3rd century BC,200 BC,-200,Battle of Baideng,Battle of Baideng,China,False
+W482,2nd century BC,198 BC,-198,Battle of the Aous,Battle of the Aous (198 BC),Albania,False
+W483,2nd century BC,197 BC,-197,Battle of Cynoscephalae,Battle of Cynoscephalae,Greece,False
+W484,2nd century BC,195 BC,-195,Siege of Gythium,Siege of Gythium,Greece,False
+W485,2nd century BC,195 BC,-195,Siege of Sparta,War against Nabis,Greece,False
+W486,2nd century BC,194 BC,-194,Battle of Placentia,Battle of Placentia (194 BC),Italy,False
+W487,2nd century BC,193 BC,-193,Battle of Mutina,Battle of Mutina (193 BC),Italy,False
+W488,2nd century BC,191 BC,-191,Battle of Thermopylae,Battle of Thermopylae (191 BC),Greece,False
+W489,2nd century BC,191 BC,-191,Battle of Corycus,Battle of Corycus,Turkey,False
+W490,2nd century BC,190 BC,-190,Battle of the Eurymedon,Battle of the Eurymedon (190 BC),Turkey,False
+W491,2nd century BC,190 BC,-190,Battle of Myonessus,Battle of Myonessus,Turkey,False
+W492,2nd century BC,190 BC,-190,Battle of Magnesia,Battle of Magnesia,Turkey,False
+W493,2nd century BC,189 BC,-189,Battle of Mount Olympus,Battle of Mount Olympus,Turkey,False
+W494,2nd century BC,189 BC,-189,Battle of Ancyra,Galatian War,Turkey,False
+W495,2nd century BC,181 BC,-181,Battle of Manlian Pass,Battle of Manlian Pass,Spain,False
+W496,2nd century BC,181 BC,-181,Siege of Aebura,Siege of Aebura,Spain,False
+W497,2nd century BC,180 BC,-180,Battle of Kali Sindhu,Battle of Kali Sindhu,India,False
+W498,2nd century BC,171 BC,-171,Battle of Callicinus,Battle of Callicinus,Greece,False
+W499,2nd century BC,169 BC,-169,Siege of Eucratideia,Siege of Eucratideia,Afghanistan,False
+W500,2nd century BC,168 BC,-168,Battle of Pydna,Battle of Pydna,Greece,False
+W501,2nd century BC,168 BC,-168,Siege of Bassania,Siege of Bassania,Albania,False
+W502,2nd century BC,167 BC,-167,Battle of Wadi Haramia,Battle of Wadi Haramia,Palestine,False
+W503,2nd century BC,166 BC,-166,Battle of Beth Horon (166 BC),Battle of Beth Horon (166 BC),Palestine,False
+W504,2nd century BC,166 BC,-166,Battle of Emmaus,Battle of Emmaus,Israel,False
+W505,2nd century BC,164 BC,-164,Battle of Beth Zur,Battle of Beth Zur,Palestine,False
+W506,2nd century BC,162 BC,-162,Battle of Beth Zachariah,Battle of Beth Zachariah,Palestine,False
+W507,2nd century BC,162 BC,-162,Battle of Vijithapura,Battle of Vijithapura,Sri Lanka,False
+W508,2nd century BC,161 BC,-161,Battle of Adasa,Battle of Adasa,Palestine,False
+W509,2nd century BC,160 BC,-160,Battle of Elasa,Battle of Elasa,Palestine,False
+W510,2nd century BC,154 BC,-154,Siege of Lapethus,Siege of Lapethus,Cyprus,False
+W511,2nd century BC,151 BC,-151,Battle of Oroscopa,Battle of Oroscopa,Tunisia,False
+W512,2nd century BC,150 BC,-150,Battle of Vidarbha,Battle of Vidarbha,India,False
+W513,2nd century BC,149 BC,-149,Battle of Lake Tunis,Battle of Lake Tunis,Tunisia,False
+W514,2nd century BC,148 BC,-148,Battle of Pydna,Battle of Pydna (148 BC),Greece,False
+W515,2nd century BC,147 BC,-147,Battle of the Port of Carthage,Battle of the Port of Carthage,Tunisia,False
+W516,2nd century BC,147 BC,-147,Battle of Nepheris,Battle of Nepheris (147 BC),Tunisia,False
+W517,2nd century BC,146 BC,-146,Battle of Carthage (c.149 BC),Battle of Carthage (c.149 BC),Tunisia,False
+W518,2nd century BC,146 BC,-146,Battle of Scarpheia,Battle of Scarpheia,Greece,False
+W519,2nd century BC,146 BC,-146,Battle of Corinth,Battle of Corinth (146 BC),Greece,False
+W520,2nd century BC,145 BC,-145,Battle of the Oenoparus,Battle of the Oenoparus,Turkey,False
+W521,2nd century BC,145 BC,-145,Battle of Vidarbha,Vidarbha kingdom (Mauryan era),India,False
+W522,2nd century BC,138 BC,-138,Siege of Dong'ou,Siege of Dong'ou,China,False
+W523,2nd century BC,135 BC,-135,Battle on the Sindhu River,Battle on the Sindhu River,India,False
+W524,2nd century BC,133 BC,-133,Siege of Numantia,Siege of Numantia,Spain,False
+W525,2nd century BC,133 BC,-133,Battle of Mayi,Battle of Mayi,China,False
+W526,2nd century BC,129 BC,-129,Battle of Ecbatana,Battle of Ecbatana,Iran,False
+W527,2nd century BC,121 BC,-121,Battle of Vindalium,Battle of Vindalium,France,False
+W528,2nd century BC,121 BC,-121,Battle of the Isère River,Battle of the Isère River,France,False
+W529,2nd century BC,119 BC,-119,Battle of Mobei,Battle of Mobei,Mongolia,False
+W530,2nd century BC,113 BC,-113,Siege of Cirta,Siege of Cirta,Algeria,False
+W531,2nd century BC,112 BC,-112,Battle of Noreia,Battle of Noreia,Austria,False
+W532,2nd century BC,110 BC,-110,Battle of Suthul,Battle of Suthul,Algeria,False
+W533,2nd century BC,110 BC,-110,Siege of Chersonesos,Siege of Chersonesos,Ukraine; Russia,False
+W534,2nd century BC,109 BC,-109,Battle of the Muthul,Battle of the Muthul,Tunisia,False
+W535,2nd century BC,109 BC,-109,Siege of Zama,Siege of Zama,Tunisia,False
+W536,2nd century BC,108 BC,-108,Battle of Loulan,Battle of Loulan,China,False
+W537,2nd century BC,108 BC,-108,Siege of Thala,Siege of Thala,Tunisia,False
+W538,2nd century BC,107 BC,-107,Battle of Burdigala,Battle of Burdigala,France,False
+W539,2nd century BC,106 BC,-106,Second Battle of Cirta,Second Battle of Cirta,Algeria,False
+W540,2nd century BC,105 BC,-105,Battle of Arausio,Battle of Arausio,France,False
+W541,2nd century BC,103 BC,-103,Battle of Scirthaea,Second Servile War,Italy,False
+W542,2nd century BC,103 BC,-103,Siege of Triocala,Second Servile War,Italy,False
+W543,2nd century BC,103 BC,-103,Battle of Asophon,Battle of Asophon,Israel,False
+W544,2nd century BC,102 BC,-102,Battle of Tridentum,Battle of Tridentum,Italy,False
+W545,2nd century BC,102 BC,-102,Battle of Aquae Sextiae,Battle of Aquae Sextiae,France,False
+W546,1st century BC,99 BC,-99,Battle of Tian Shan,Battle of Tian Shan,China; Kazakhstan,True
+W547,1st century BC,93 BC,-93,Battle of Gadara,Battle of Gadara,Jordan,False
+W548,1st century BC,91 BC,-91,Battle of Mount Falernus,Battle of Mount Falernus,Italy,False
+W549,1st century BC,90 BC,-90,Battle of Aesernia,Battle of Aesernia,Italy,False
+W550,1st century BC,90 BC,-90,Battle of Acerrae,Battle of Acerrae,Italy,False
+W551,1st century BC,89 BC,-89,Battle of Fucine Lake,Battle of Fucine Lake,Italy,False
+W552,1st century BC,89 BC,-89,Battle of Asculum,Battle of Asculum (89 BC),Italy,False
+W553,1st century BC,89 BC,-89,Battle of the Aufidus,Battle of the Aufidus,Italy,False
+W554,1st century BC,89 BC,-89,Battle of the River Amnias,Battle of the River Amnias,Turkey,False
+W555,1st century BC,89 BC,-89,Battle of Protopachium,Battle of Protopachium,Turkey,False
+W556,1st century BC,88 BC,-88,Battle of Mount Scorobas,Battle of Mount Scorobas,Turkey,False
+W557,1st century BC,87 – 86 BC,-87,Siege of Athens and Piraeus,Siege of Athens and Piraeus (87–86 BC),Greece,False
+W558,1st century BC,86 BC,-86,Battle of Tenedos,Battle of Tenedos (86 BC),Turkey,False
+W559,1st century BC,86 BC,-86,Battle of Chaeronea,Battle of Chaeronea (86 BC),Greece,False
+W560,1st century BC,85 BC,-85,Battle of Orchomenus,Battle of Orchomenus,Greece,False
+W561,1st century BC,84 BC,-84,Battle of Cana,Battle of Cana,Israel; Jordan,True
+W562,1st century BC,83 BC,-83,Battle of Mount Tifata,Battle of Mount Tifata,Italy,False
+W563,1st century BC,82 BC,-82,Battle of Sacriportus,Battle of Sacriportus,Italy,False
+W564,1st century BC,82 BC,-82,Battle of the Colline Gate,Battle of the Colline Gate (82 BC),Italy,False
+W565,1st century BC,80 BC,-80,Battle of the Baetis River,Battle of the Baetis River,Spain,False
+W566,1st century BC,76 BC,-76,Battle of Lauron,Battle of Lauron,Spain,False
+W567,1st century BC,75 BC,-75,Battle of Saguntum,Battle of Saguntum (75 BC),Spain,False
+W568,1st century BC,74 BC,-74,Battle of Chalcedon,Battle of Chalcedon (74 BC),Turkey,False
+W569,1st century BC,73 BC,-73,Battle of Mount Vesuvius,Battle of Mount Vesuvius,Italy,False
+W570,1st century BC,73 BC,-73,Battle of Cyzicus,Battle of Cyzicus (74 BC),Turkey,False
+W571,1st century BC,73 BC,-73,Battle of the Rhyndacus (73 BC),Battle of the Rhyndacus (73 BC),Turkey,False
+W572,1st century BC,73 BC,-73,Battle of Lemnos,Battle of Lemnos (73 BCE),Greece,False
+W573,1st century BC,72 BC,-72,Battle of Cabira,Battle of Cabira,Turkey,False
+W574,1st century BC,72-71 BC,-72,Siege of Heraclea,Siege of Heraclea,Turkey,False
+W575,1st century BC,72-69 BC,-72,Siege of Knossos,Siege of Knossos,Greece,False
+W576,1st century BC,71 BC,-71,Battle of Cantenna,Battle of Cantenna,Italy,False
+W577,1st century BC,71 BC,-71,Battle of the Silarius River,Battle of the Silarius River,Italy,False
+W578,1st century BC,69 BC,-69,Battle of Tigranocerta,Battle of Tigranocerta,Turkey,False
+W579,1st century BC,68 BC,-68,Battle of Artaxata,Battle of Artaxata,Armenia,False
+W580,1st century BC,67 BC,-67,Battle of Korakesion,Battle of Korakesion,Turkey,False
+W581,1st century BC,67 BC,-67,Battle of Jushi,Battle of Jushi,China,False
+W582,1st century BC,67 BC,-67,Battle of Zela (67 BC),Battle of Zela (67 BC),Turkey,False
+W583,1st century BC,66 BC,-66,Battle of the Lycus,Battle of the Lycus,Turkey,False
+W584,1st century BC,65 BC,-65,Battle of the Pelorus,Battle of the Pelorus,Georgia (country),False
+W585,1st century BC,65 BC,-65,Battle of the Abas,Battle of the Abas,Azerbaijan,False
+W586,1st century BC,63 BC,-63,Battle of Magetobriga,Battle of Magetobriga,France,False
+W587,1st century BC,63 BC,-63,Siege of Jerusalem,Siege of Jerusalem (63 BC),Palestine,False
+W588,1st century BC,62 BC,-62,Battle of Pistoria,Battle of Pistoria,Italy,False
+W589,1st century BC,61 BC,-61,Battle of Histria,Battle of Histria,Romania,False
+W590,1st century BC,58 BC,-58,Battle of the Arar,Battle of the Arar,France,False
+W591,1st century BC,58 BC,-58,Battle of Bibracte,Battle of Bibracte,France,False
+W592,1st century BC,58 BC,-58,Battle of Vosges,Battle of Vosges (58 BC),France,False
+W593,1st century BC,57 BC,-57,Battle of the Axona,Battle of the Axona,France,False
+W594,1st century BC,57 BC,-57,Battle of the Sabis,Battle of the Sabis,France,False
+W595,1st century BC,57 BC,-57,Siege of the Atuatuci,Siege of the Atuatuci,Belgium,False
+W596,1st century BC,57-56 BC,-57,Battle of Octodurus,Battle of Octodurus,Switzerland,False
+W597,1st century BC,53 BC,-53,Battle of Carrhae,Battle of Carrhae,Turkey,False
+W598,1st century BC,52 BC,-52,Battle of Bovillae,Battle of Bovillae,Italy,False
+W599,1st century BC,52 BC,-52,Siege of Avaricum,Avaricum,France,False
+W600,1st century BC,52 BC,-52,Battle of Gergovia,Battle of Gergovia,France,False
+W601,1st century BC,52 BC,-52,Battle of Lutetia,Battle of Lutetia,France,False
+W602,1st century BC,52 BC,-52,Battle of Alesia,Battle of Alesia,France,False
+W603,1st century BC,51 BC,-51,Siege of Uxellodunum,Siege of Uxellodunum,France,False
+W604,1st century BC,49 BC,-49,Siege of Corfinium,Siege of Corfinium,Italy,False
+W605,1st century BC,49 BC,-49,Siege of Brundisium,Siege of Brundisium,Italy,False
+W606,1st century BC,49 BC,-49,Siege of Massilia,Siege of Massilia,France,False
+W607,1st century BC,49 BC,-49,Battle of Ilerda,Battle of Ilerda,Spain,False
+W608,1st century BC,49 BC,-49,Battle of Tauroento,Battle of Tauroento,France,False
+W609,1st century BC,49 BC,-49,Siege of Curicta,Siege of Curicta,Croatia,False
+W610,1st century BC,49 BC,-49,Battle of Utica (49 BC),Battle of Utica (49 BC),Tunisia,False
+W611,1st century BC,49 BC,-49,Battle of the Bagradas River,Battle of the Bagradas River (49 BC),Tunisia,False
+W612,1st century BC,49 BC,-49,Siege of Salona (49),Siege of Salona (49),Croatia,False
+W613,1st century BC,48 BC,-48,Battle of Dyrrhachium (48 BC),Battle of Dyrrhachium (48 BC),Albania,False
+W614,1st century BC,48 BC,-48,Siege of Oricum,Siege of Oricum,Albania,False
+W615,1st century BC,48 BC,-48,Siege of Gomphi,Siege of Gomphi,Greece,False
+W616,1st century BC,48 BC,-48,Battle of Pharsalus,Battle of Pharsalus,Greece,False
+W617,1st century BC,48 BC,-48,Battle of Nicopolis (48 BC),Battle of Nicopolis (48 BC),Turkey,False
+W618,1st century BC,47 BC,-47,Siege of Alexandria (47 BC),Siege of Alexandria (47 BC),Egypt,False
+W619,1st century BC,47 BC,-47,Battle of the Nile,Battle of the Nile (47 BC),Egypt,False
+W620,1st century BC,47 BC,-47,Battle of Zela,Battle of Zela,Turkey,False
+W621,1st century BC,47 BC,-47,Battle of Tauris,Battle of Tauris,Croatia,False
+W622,1st century BC,46 BC,-46,Battle of Ruspina,Battle of Ruspina,Tunisia,False
+W623,1st century BC,46 BC,-46,Battle of Ascurum,The Battle of Ascurum,Algeria; Morocco,True
+W624,1st century BC,46 BC,-46,Battle of Thapsus,Battle of Thapsus,Tunisia,False
+W625,1st century BC,46 BC,-46,Battle of Hippo Regius,Battle of Hippo Regius,Algeria,False
+W626,1st century BC,46 BC,-46,Battle of Carteia,Battle of Carteia (46 BC),Spain,False
+W627,1st century BC,45 BC,-45,Battle of Munda,Battle of Munda,Spain,False
+W628,1st century BC,45 BC,-45,Battle of Lauro,Battle of Lauro,Spain,False
+W629,1st century BC,45 BC,-45,Siege of Corduba,Siege of Corduba,Spain,False
+W630,1st century BC,45 BC,-45,Siege of Apamea,Siege of Apamea,Syria,False
+W631,1st century BC,43 BC,-43,Battle of Forum Gallorum,Battle of Forum Gallorum,Italy,False
+W632,1st century BC,43 BC,-43,Battle of Mutina,Battle of Mutina,Italy,False
+W633,1st century BC,42 BC,-42,First Battle of Philippi,First Battle of Philippi,Greece,False
+W634,1st century BC,42 BC,-42,Second Battle of Philippi,Second Battle of Philippi,Greece,False
+W635,1st century BC,40 BC,-40,Battle of Perugia,Battle of Perugia,Italy,False
+W636,1st century BC,39 BC,-39,Battle of the Cilician Gates,Battle of the Cilician Gates,Turkey,False
+W637,1st century BC,39 BC,-39,Battle of Amanus Pass,Battle of Amanus Pass,Turkey,False
+W638,1st century BC,38 BC,-38,Battle of Mount Gindarus,Battle of Mount Gindarus,Syria,False
+W639,1st century BC,37 BC,-37,Siege of Jerusalem,Siege of Jerusalem (37 BC),Palestine,False
+W640,1st century BC,36 BC,-36,Battle of Naulochus,Battle of Naulochus,Italy,False
+W641,1st century BC,36 BC,-36,Battle of Zhizhi,Battle of Zhizhi,Kazakhstan,False
+W642,1st century BC,31 BC,-31,Battle of Actium,Battle of Actium,Greece,False
+W643,1st century BC,30 BC,-30,Battle of Alexandria,Battle of Alexandria (30 BC),Egypt,False
+W644,1st century BC,25 BC,-25,Siege of Aracillum,Siege of Aracillum,Spain,False
+W645,1st century BC,25 BC,-25,Battle of Vellica,Battle of Vellica,Spain,False
+W646,1st century BC,23 BC,-23,Siege of Napata,Siege of Napata,Sudan,False
+W647,1st century BC,15 BC,-15,Battle of Lake Constance,Battle of Lake Constance,Germany; Switzerland; Austria,True
+W648,1st century BC,11 BC,-11,Battle of Arbalo,Battle of Arbalo,Germany,False
+W649,1st century,9,9,Battle of the Teutoburg Forest,Battle of the Teutoburg Forest,Germany,False
+W650,1st century,15,15,Battle at Pontes Longi,Battle at Pontes Longi,Germany,False
+W651,1st century,16,16,Battle of the Weser River,Battle of the Weser River,Germany,False
+W652,1st century,16,16,Battle of the Angrivarian Wall,Battle of the Angrivarian Wall,Germany,False
+W653,1st century,23,23,Battle of Kunyang,Battle of Kunyang,China,False
+W654,1st century,28,28,Battle of Baduhenna Wood,Battle of Baduhenna Wood,Netherlands,False
+W655,1st century,43,43,Battle of the Medway,Battle of the Medway,United Kingdom,False
+W656,1st century,49,49,Siege of Uspe,Siege of Uspe,Russia,False
+W657,1st century,50,50,Battle of Caer Caradock,Battle of Caer Caradock,United Kingdom,False
+W658,1st century,58,58,Salt Battle,Battle between the Hermunduri and the Chatti,Germany,False
+W659,1st century,60-61,60,Battle of Camulodunum,Battle of Camulodunum,United Kingdom,False
+W660,1st century,61,61,Battle of Watling Street,Battle of Watling Street,United Kingdom,False
+W661,1st century,61,61,Siege of Tigranocerta,Roman–Parthian War of 58–63,Turkey,False
+W662,1st century,62,62,Battle of Rhandeia,Battle of Rhandeia,Turkey,False
+W663,1st century,66,66,Battle of Beth Horon (66),Battle of Beth Horon (66),Palestine,False
+W664,1st century,67,67,Siege of Yodfat,Siege of Yodfat,Israel,False
+W665,1st century,67,67,Siege of Gamla,Siege of Gamla,Syria,False
+W666,1st century,68,68,Battle of Vensontio,Battle of Vesontio (68),France,False
+W667,1st century,69,69,Battle of Bedriacum,Battle of Bedriacum,Italy,False
+W668,1st century,69,69,Second Battle of Bedriacum,Second Battle of Bedriacum,Italy,False
+W669,1st century,69,69,Battle of Locus Castorum,Battle of Locus Castorum,Italy,False
+W670,1st century,70,70,Siege of Jerusalem (70),Siege of Jerusalem (70),Palestine,False
+W671,1st century,71,71,Battle of Stanwick,Battle of Stanwick,United Kingdom,False
+W672,1st century,73,73,Battle of Yiwulu,Battle of Yiwulu,China,False
+W673,1st century,74,74,Siege of Masada,Siege of Masada,Israel,False
+W674,1st century,84,84,Battle of Mons Graupius,Battle of Mons Graupius,United Kingdom,False
+W675,1st century,87-88,87,First Battle of Tapae,First Battle of Tapae,Romania,False
+W676,1st century,89,89,Battle of Ikh Bayan,Battle of Ikh Bayan,China; Mongolia; Kazakhstan,True
+W677,2nd century,101,101,Second Battle of Tapae,Second Battle of Tapae,Romania,False
+W678,2nd century,102,102,Battle of Adamclisi,Battle of Adamclisi,Romania,False
+W679,2nd century,103,103,Battle of Gatae,Battle of Gatae,,True
+W680,2nd century,106,106,Battle of Sarmizegetusa,Battle of Sarmizegetusa,Romania,False
+W681,2nd century,117,117,Siege of Hatra,Trajan's Parthian campaign,Iraq,False
+W682,2nd century,130,130,Battle of Venni,Battle of Venni,India,False
+W683,2nd century,140,140,Siege of Burnswark,Siege of Burnswark,United Kingdom,False
+W684,2nd century,163,163,Siege of Edessa,Siege of Edessa (163),Turkey,False
+W685,2nd century,165,165,Siege of Edessa,Siege of Edessa (165),Turkey,False
+W686,2nd century,165,165,Battle of Ctesiphon,Battle of Ctesiphon (165),Iraq,False
+W687,2nd century,170,170,Battle of Carnuntum,Battle of Carnuntum,Austria,False
+W688,2nd century,184,184,Battle of Yingchuan,Battle of Yingchuan,China,False
+W689,2nd century,184,184,Siege of Julu,Siege of Julu,China,False
+W690,2nd century,190,190,Battle of Xingyang,Battle of Xingyang (190),China,False
+W691,2nd century,190,190,Battle of Venni,Battle of Venni,India,False
+W692,2nd century,191,191,Battle of Jieqiao,Battle of Jieqiao,China,False
+W693,2nd century,191,191,Battle of Yangcheng,Battle of Yangcheng,China,False
+W694,2nd century,191,191,Battle of Xiangyang,Battle of Xiangyang (191),China,False
+W695,2nd century,192,192,Battle of Chang'an,Battle of Chang'an,China,False
+W696,2nd century,193,193,Battle of Cyzicus,Battle of Cyzicus (193),Turkey,False
+W697,2nd century,193,193,Battle of Nicaea,Battle of Nicaea,Turkey,False
+W698,2nd century,193,193,Battle of Fengqiu,Battle of Fengqiu,China,False
+W699,2nd century,194,194,Battle of Issus,Battle of Issus (194),Turkey,False
+W700,2nd century,194,194,Battle of Yan Province,Battle of Yan Province,China,False
+W701,2nd century,197,197,Battle of Lugdunum,Battle of Lugdunum,France,False
+W702,2nd century,197,197,Battle of Wancheng,War between Cao Cao and Zhang Xiu,China,False
+W703,2nd century,198,198,Battle of Ctesiphon (198),Battle of Ctesiphon (198),Iraq,False
+W704,2nd century,198,198,Siege of Hatra,Siege of Hatra (197–198),Iraq,False
+W705,2nd century,198,198,Battle of Xiapi,Battle of Xiapi,China,False
+W706,2nd century,199,199,Battle of Yijing,Battle of Yijing,China,False
+W707,3rd century,202,202,Battle of Bowang,Battle of Bowang,China,False
+W708,3rd century,203,203,Siege of Garama,Siege of Garama,Libya,False
+W709,3rd century,208,208,Battle of Xiakou,Battle of Xiakou,China,False
+W710,3rd century,208,208,Battle of Changban,Battle of Changban,China,False
+W711,3rd century,208,208,Battle of Red Cliffs,Battle of Red Cliffs,China,False
+W712,3rd century,208,208,Battle of Yiling,Battle of Yiling (208),China,False
+W713,3rd century,209,209,Battle of Jiangling,Battle of Jiangling (208),China,False
+W714,3rd century,211,211,Battle of Tong Pass,Battle of Tong Pass (211),China,False
+W715,3rd century,213,213,Siege of Jicheng,Siege of Jicheng,China,False
+W716,3rd century,213,213,Battle of Lucheng,Battle of Lucheng,China,False
+W717,3rd century,215,215,Battle of Yangping,Battle of Yangping,China,False
+W718,3rd century,215,215,Battle of Baxi,Battle of Baxi,China,False
+W719,3rd century,217,217,Battle of Nisibis,Battle of Nisibis (217),Turkey,False
+W720,3rd century,217,217,Battle of Ruxu,Battle of Ruxu (217),China,False
+W721,3rd century,218,218,Battle of Antioch,Battle of Antioch (218),Turkey,False
+W722,3rd century,219,219,Battle of Mount Dingjun,Battle of Mount Dingjun,China,False
+W723,3rd century,219,219,Battle of Han River,Battle of Han River,China,False
+W724,3rd century,219,219,Battle of Fancheng,Battle of Fancheng,China,False
+W725,3rd century,222,222,Battle of Xiaoting,Battle of Xiaoting,China,False
+W726,3rd century,224,224,Battle of Hormizdegan,Battle of Hormizdegan,Iran,False
+W727,3rd century,c.226-227,226,Siege of Hatra,Ardashir I's Siege of Hatra,Iraq,False
+W728,3rd century,228,228,Xincheng Rebellion,Xincheng Rebellion,China,False
+W729,3rd century,228,228,Battle of Tianshui,Battle of Tianshui,China,False
+W730,3rd century,228,228,Battle of Jieting,Battle of Jieting,China,False
+W731,3rd century,228,228,Battle of Shiting,Battle of Shiting,China,False
+W732,3rd century,229,229,Siege of Chencang,Siege of Chencang,China,False
+W733,3rd century,231,231,Battle of Mount Qi,Battle of Mount Qi,China,False
+W734,3rd century,234,234,Battle of Wuzhang Plains,Battle of Wuzhang Plains,China,False
+W735,3rd century,235,235,Siege of Nisbis,Siege of Nisibis (235),Turkey,False
+W736,3rd century,235,235,Battle at the Harzhorn,Battle at the Harzhorn,Germany,False
+W737,3rd century,238,238,Battle of Carthage,Battle of Carthage (238),Tunisia,False
+W738,3rd century,238,238,Siege of Aquileia,Siege of Aquileia,Italy,False
+W739,3rd century,240-241,240,Fall of Hatra,Fall of Hatra,Iraq,False
+W740,3rd century,243,243,Battle of Resaena,Battle of Resaena,Syria,False
+W741,3rd century,244,244,Battle of Misiche,Battle of Misiche,Iraq,False
+W742,3rd century,244,244,Battle of Xingshi,Battle of Xingshi,China,False
+W743,3rd century,249,249,Battle of Verona,Battle of Verona (249),Italy,False
+W744,3rd century,250,250,Battle of Philippopolis,Battle of Philippopolis (250),Bulgaria,False
+W745,3rd century,250,250,Battle of Nicopolis,Battle of Nicopolis ad Istrum,Bulgaria,False
+W746,3rd century,250,250,Battle of Beroe,Battle of Beroe,Bulgaria,False
+W747,3rd century,251,251,Battle of Abrittus,Battle of Abrittus,Bulgaria,False
+W748,3rd century,252,252,Siege of Nisibis,Siege of Nisibis (252),Turkey,False
+W749,3rd century,253,253,Battle of Barbalissos,Battle of Barbalissos,Syria,False
+W750,3rd century,253,253,Siege of Antioch,Siege of Antioch (253),Turkey,False
+W751,3rd century,254,254,Battle of Thermopylae,Battle of Thermopylae (254),Greece,False
+W752,3rd century,255,255,Battle of Didao,Battle of Didao,China,False
+W753,3rd century,256,256,Siege of Dura-Europos,Siege of Dura-Europos (256),Syria,False
+W754,3rd century,259,259,Battle of Edessa,Battle of Edessa,Turkey,False
+W755,3rd century,259,259,Battle of Mediolanum,Battle of Mediolanum,Italy,False
+W756,3rd century,260,260,Siege of Caeserea Cappadocia,Siege of Caesarea Cappadocia (260),Turkey,False
+W757,3rd century,263,263,Battle of Ctesiphon,Battle of Ctesiphon (263),Iraq,False
+W758,3rd century,267,267,Battle of Thermopylae (267),Battle of Thermopylae (267),Greece,False
+W759,3rd century,267,267,Sack of Athens,Sack of Athens (267 AD),Greece,False
+W760,3rd century,268,268,Battle of Lake Benacus,Battle of Lake Benacus,Italy,False
+W761,3rd century,269,269,Battle of Naissus,Battle of Naissus,Serbia,False
+W762,3rd century,269,269,Siege of Augustodunum Haeduorum,Siege of Augustodunum Haeduorum,France,False
+W763,3rd century,270,270,Sack of Bostra,Sack of Bostra,Syria,False
+W764,3rd century,271,271,Battle of Placentia,Battle of Placentia (271),Italy,False
+W765,3rd century,271,271,Battle of Fano,Battle of Fano,Italy,False
+W766,3rd century,271,271,Battle of Pavia,Battle of Pavia (271),Italy,False
+W767,3rd century,272,272,Battle of Immae,Battle of Immae,Syria,False
+W768,3rd century,272,272,Battle of Emesa,Battle of Emesa,Syria,False
+W769,3rd century,273,273,Battle of Palmyra,Battle of Palmyra (273 BC),Syria,False
+W770,3rd century,274,274,Battle of Châlons,Battle of Châlons (274),France,False
+W771,3rd century,285,285,Battle of the Margus,Battle of the Margus,Serbia,False
+W772,3rd century,290,290,Battle of Shabwa,Battle of Shabwa,Yemen,False
+W773,3rd century,296,296,Battle of Carrhae,Battle of Carrhae (296),Syria; Turkey,True
+W774,3rd century,298,298,Battle of Satala,Battle of Satala (298),Turkey,False
+W775,3rd century,298,298,Battle of Lingones,Battle of Lingones,France,False
