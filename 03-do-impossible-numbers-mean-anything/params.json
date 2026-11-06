@@ -1,0 +1,72 @@
+{
+  "_note": "Registered values for Paper 3 (book Test 4), fixed before any army figure is collected. See PROTOCOL.md.",
+  "earliest_run_date": "2026-11-20",
+  "frames": {
+    "W": {
+      "source": "Wikipedia, List of battles before 301",
+      "revision_id": 1382889923,
+      "revision_timestamp": "2026-10-30T21:17:43Z",
+      "permalink": "https://en.wikipedia.org/w/index.php?title=List_of_battles_before_301&oldid=1382889923",
+      "use": "list of wars only; never a source of figures"
+    },
+    "T": {
+      "texts": [
+        "Diodorus, Library 1.53-58 (Sesoosis)",
+        "Diodorus, Library 2.1-20 (Ninus and Semiramis, from Ctesias)",
+        "Homer, Iliad 2.484-877 (Catalogue of Ships)",
+        "Hebrew Bible, Exodus to 2 Chronicles",
+        "Livy, Book 1",
+        "Tain Bo Cuailnge, Recension I",
+        "Hervarar saga (battle of the Goths and Huns)",
+        "Nihon shoki, Books 1-10"
+      ],
+      "rule": "every war episode in these texts that gives a number for an army"
+    },
+    "excluded_traditions": ["Mahabharata", "Ramayana", "Puranas"],
+    "ancient_source_before_year_ce": 500,
+    "headline_figure": "largest force any ancient source gives for any one side",
+    "sensitivity_figure": "median ancient figure for the war"
+  },
+  "classification": {
+    "A": "independently attested: (i) a document or inscription within 50 years naming or describing the event, or (ii) event-specific archaeology, or (iii) two independent ancient narrative sources",
+    "U": "unattested: known only from one tradition whose earliest surviving form is at least 300 years after the purported date, with none of (i)-(iii)",
+    "M": "anything else; excluded from the primary analysis",
+    "contemporary_window_years": 50,
+    "late_tradition_years": 300,
+    "human_recode_share": 0.30,
+    "recode_seed": 20261106,
+    "reliability": "Cohen's kappa between two humans only; AI never counts as a coder (rules section 9)"
+  },
+  "measures": {
+    "population": "highest of HYDE 3.3 upper scenario (summed over the region's modern countries) and McEvedy and Jones (1978), at the nearest date; for a date range, the date giving the largest population",
+    "adult_male_share": 0.30,
+    "impossible_threshold_m": 1.0,
+    "mobilization_threshold_m": 0.25,
+    "arms_mix": "foot / (chariots + elephants), where both are given"
+  },
+  "gate": {
+    "armies": ["Hydaspes 326 BCE", "Panipat 1760-61", "Mughal camp 1660s"],
+    "source": "Paper 2 params.json hindcasts (modern estimates)",
+    "pass_if": "m < 0.25 for all three"
+  },
+  "decision": {
+    "bar_p": 0.0011,
+    "suggestive_p": 0.05,
+    "test_Q1_Q2": "one-sided Fisher exact; LR = share(U) / share(A), 95% interval by Katz log method, 0.5 added to every cell if any is zero",
+    "test_Q3": "one-sided Mann-Whitney U; ratio of medians for equivalence",
+    "equivalence_band": [0.5, 2.0],
+    "min_wars_per_group": 30,
+    "answers": {
+      "Yes": "p < bar and LR > 1",
+      "No": "95% interval for LR wholly inside the equivalence band, or wholly below 1",
+      "Not settled": "anything else, or fewer than the minimum wars per group, or the gate fails"
+    }
+  },
+  "mahabharata_readings_from_paper_2": {
+    "population_P": 75000000,
+    "R1": {"F": 3936600, "basis": "1.2.15-24: the text's count of units, one man each"},
+    "R2a": {"F": 18000, "basis": "5.152.21-22 as senas: 9,000 elephants and 9,000 chariots, one man each, a minimum"},
+    "R2b": {"F": 1800000, "basis": "5.152.21-22 as vahinis, one man each, a minimum"},
+    "R3a": {"F": 16500000, "basis": "5.152.24-25, at least 10,000 ganas of 1,650 men"}
+  }
+}
